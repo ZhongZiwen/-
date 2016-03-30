@@ -1,0 +1,148 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "reports": [{
+                    "id": 466460,
+                    "type": 638267,
+                    "date": 1433433600000,
+                    "plan": "",
+                    "content": "111",
+                    "fileName": "",
+                    "fileUrl": "",
+                    "recipient": 329694,
+                    "status": 2,
+                    "createdAt": 1433490760651,
+                    "updatedAt": 1433490760651,
+                    "approver": {
+                    "uid": 329694,
+                    "name": "马照",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                    }
+                    }, {
+                    "id": 466458,
+                    "type": 638267,
+                    "date": 1433433600000,
+                    "plan": "",
+                    "content": "111",
+                    "fileName": "",
+                    "fileUrl": "",
+                    "recipient": 329694,
+                    "status": 2,
+                    "createdAt": 1433490666913,
+                    "updatedAt": 1433490666913,
+                    "approver": {
+                    "uid": 329694,
+                    "name": "马照",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                    }
+                    }, {
+                    "id": 453586,
+                    "type": 638267,
+                    "date": 1432828800000,
+                    "plan": "Dhjd",
+                    "content": "Djjd",
+                    "fileName": "",
+                    "fileUrl": "",
+                    "recipient": 329696,
+                    "status": 1,
+                    "createdAt": 1432864680533,
+                    "updatedAt": 1432864680533,
+                    "approver": {
+                    "uid": 329696,
+                    "name": "姜军",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329696/s_86a6a0e7377643f5aaa08932adbc3fb3.jpg"
+                    },
+                    "copyUsers": [{
+                                  "uid": 329701,
+                                  "name": "贺亮121",
+                                  "icon": "https://rs.ingageapp.com/upload/i/151745/329701/s_e30bb4bf66fa4d96b0ece32033cd983a.jpg"
+                                  }]
+                    }, {
+                    "id": 440177,
+                    "type": 638267,
+                    "date": 1432137600000,
+                    "plan": "",
+                    "content": "1111",
+                    "fileName": "",
+                    "fileUrl": "",
+                    "recipient": 329696,
+                    "status": 2,
+                    "createdAt": 1432208421799,
+                    "updatedAt": 1432208421799,
+                    "approver": {
+                    "uid": 329696,
+                    "name": "姜军",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329696/s_86a6a0e7377643f5aaa08932adbc3fb3.jpg"
+                    }
+                    }, {
+                    "id": 430577,
+                    "type": 638267,
+                    "date": 1431619200000,
+                    "plan": "bbb",
+                    "content": "aaa",
+                    "fileName": "",
+                    "fileUrl": "",
+                    "recipient": 329700,
+                    "status": 1,
+                    "createdAt": 1431692004808,
+                    "updatedAt": 1431692004808,
+                    "approver": {
+                    "uid": 329700,
+                    "name": "胡阳",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329700/s_f40df0f89c7640c08d7f5bb0095370c3.jpg"
+                    },
+                    "copyUsers": [{
+                                  "uid": 329701,
+                                  "name": "贺亮121",
+                                  "icon": "https://rs.ingageapp.com/upload/i/151745/329701/s_e30bb4bf66fa4d96b0ece32033cd983a.jpg"
+                                  }]
+                    }, {
+                    "id": 428661,
+                    "type": 638267,
+                    "date": 1431532800000,
+                    "plan": "111",
+                    "content": "111",
+                    "fileName": "Chrysanthemum.jpg",
+                    "fileUrl": "https://rs.ingageapp.com/upload/f/workreport/2015/05/14/b0f0cb77efb94da68132b036c05d8efb.jpg",
+                    "recipient": 329702,
+                    "status": 1,
+                    "createdAt": 1431607881126,
+                    "updatedAt": 1431607881126,
+                    "approver": {
+                    "uid": 329702,
+                    "name": "钱叶",
+                    "icon": ""
+                    },
+                    "copyUsers": [{
+                                  "uid": 323203,
+                                  "name": "王威振",
+                                  "icon": "https://rs.ingageapp.com/upload/i/151745/323203/s_c2206e48bcf94340b2cbbe3180f37d2c.jpg"
+                                  }],
+                    "fileurl": "https://rs.ingageapp.com/upload/f/workreport/2015/05/14/b0f0cb77efb94da68132b036c05d8efb.jpg",
+                    "filename": "Chrysanthemum.jpg"
+                    }, {
+                    "id": 427931,
+                    "type": 638267,
+                    "date": 1431532800000,
+                    "plan": "11",
+                    "content": "11",
+                    "fileName": "",
+                    "fileUrl": "",
+                    "recipient": 327474,
+                    "status": 2,
+                    "createdAt": 1431592243059,
+                    "updatedAt": 1431592243059,
+                    "approver": {
+                    "uid": 327474,
+                    "name": "姜洪",
+                    "icon": ""
+                    }
+                    }],
+        "hasMore": true
+    }
+}

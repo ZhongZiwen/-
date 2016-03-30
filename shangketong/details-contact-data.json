@@ -1,0 +1,283 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "records": [{
+                    "user": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                    },
+                    "group": {
+                    "gid": 5723808,
+                    "name": "移动端_客户_创建销售机会",
+                    "type": 3,
+                    "permission": 1
+                    },
+                    "from": {
+                    "id": 1540358,
+                    "name": "移动端_客户_联系人",
+                    "belongId": 2,
+                    "belongName": "联系人"
+                    },
+                    "startTime": 1436249762341,
+                    "typeName": "完成任务",
+                    "typeCategroy": "-10",
+                    "taskId": 663175,
+                    "taskDescription": "",
+                    "taskCreatedBy": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                    },
+                    "taskCreatedAt": 1436239855345,
+                    "taskMembers": [{
+                                    "uid": 329694,
+                                    "name": "马照",
+                                    "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                                    }],
+                    "fileCount": 0,
+                    "content": "移动端_客户_联系人_给自己安排任务",
+                    "date": 1436249762290,
+                    "item": 1540358,
+                    "systemId": "607",
+                    "comments": "",
+                    "id": 3300357,
+                    "eid": 1540358,
+                    "eName": "移动端_客户_联系人",
+                    "eSystem": 518
+                    }, {
+                    "user": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                    },
+                    "group": {
+                    "gid": 5723808,
+                    "name": "移动端_客户_创建销售机会",
+                    "type": 3,
+                    "permission": 1
+                    },
+                    "from": {
+                    "id": 1540358,
+                    "name": "移动端_客户_联系人",
+                    "belongId": 2,
+                    "belongName": "联系人"
+                    },
+                    "startTime": 1436249759632,
+                    "typeName": "完成任务",
+                    "typeCategroy": "-10",
+                    "taskId": 663175,
+                    "taskDescription": "",
+                    "taskCreatedBy": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                    },
+                    "taskCreatedAt": 1436239855345,
+                    "taskMembers": [{
+                                    "uid": 329694,
+                                    "name": "马照",
+                                    "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                                    }],
+                    "fileCount": 0,
+                    "content": "移动端_客户_联系人_给自己安排任务",
+                    "date": 1436249759746,
+                    "item": 1540358,
+                    "systemId": "607",
+                    "comments": "",
+                    "id": 3300355,
+                    "eid": 1540358,
+                    "eName": "移动端_客户_联系人",
+                    "eSystem": 518
+                    }, {
+                    "user": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                    },
+                    "group": {
+                    "gid": 5723808,
+                    "name": "移动端_客户_创建销售机会",
+                    "type": 3,
+                    "permission": 1
+                    },
+                    "from": {
+                    "id": 1540358,
+                    "name": "移动端_客户_联系人",
+                    "belongId": 2,
+                    "belongName": "联系人"
+                    },
+                    "file": {
+                    "fid": 453238,
+                    "uid": 329692,
+                    "uname": "张彬",
+                    "name": "欢迎扫描.jpg",
+                    "url": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/f54de6dfaca9426a85c464499911e32d.jpg",
+                    "swf": "",
+                    "type": 1,
+                    "pic": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/s_f54de6dfaca9426a85c464499911e32d.jpg",
+                    "size": 516424,
+                    "lpic": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/f54de6dfaca9426a85c464499911e32d.jpg",
+                    "descr": "",
+                    "created": 1436249561223,
+                    "imageFiles": [{
+                                   "name": "欢迎扫描.jpg",
+                                   "url": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/f54de6dfaca9426a85c464499911e32d.jpg",
+                                   "size": 516424,
+                                   "swf": "",
+                                   "type": 1,
+                                   "pic": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/s_f54de6dfaca9426a85c464499911e32d.jpg",
+                                   "lpic": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/l_f54de6dfaca9426a85c464499911e32d.jpg",
+                                   "surl": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/s_f54de6dfaca9426a85c464499911e32d.jpg",
+                                   "lurl": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/l_f54de6dfaca9426a85c464499911e32d.jpg"
+                                   }]
+                    },
+                    "startTime": 1436249560928,
+                    "typeName": "拜访签到",
+                    "typeCategroy": 11,
+                    "content": "移动端_客户_联系人_主页_活动记录_拜访签到_图片",
+                    "date": 1436249560930,
+                    "item": 1540358,
+                    "systemId": "607",
+                    "comments": 0,
+                    "id": 3300235,
+                    "eid": 1540358,
+                    "eName": "移动端_客户_联系人",
+                    "eSystem": 518
+                    }, {
+                    "user": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                    },
+                    "group": {
+                    "gid": 5723808,
+                    "name": "移动端_客户_创建销售机会",
+                    "type": 3,
+                    "permission": 1
+                    },
+                    "from": {
+                    "id": 1540358,
+                    "name": "移动端_客户_联系人",
+                    "belongId": 2,
+                    "belongName": "联系人"
+                    },
+                    "startTime": 1436239860099,
+                    "typeName": "完成任务",
+                    "typeCategroy": "-10",
+                    "taskId": 663175,
+                    "taskDescription": "",
+                    "taskCreatedBy": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                    },
+                    "taskCreatedAt": 1436239855345,
+                    "taskMembers": [{
+                                    "uid": 329694,
+                                    "name": "马照",
+                                    "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                                    }],
+                    "fileCount": 0,
+                    "content": "移动端_客户_联系人_给自己安排任务",
+                    "date": 1436239860268,
+                    "item": 1540358,
+                    "systemId": "607",
+                    "comments": "",
+                    "id": 3297559,
+                    "eid": 1540358,
+                    "eName": "移动端_客户_联系人",
+                    "eSystem": 518
+                    }, {
+                    "user": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                    },
+                    "group": {
+                    "gid": 5723808,
+                    "name": "移动端_客户_创建销售机会",
+                    "type": 3,
+                    "permission": 1
+                    },
+                    "from": {
+                    "id": 1540358,
+                    "name": "移动端_客户_联系人",
+                    "belongId": 2,
+                    "belongName": "联系人"
+                    },
+                    "file": {
+                    "fid": 452896,
+                    "uid": 329692,
+                    "uname": "张彬",
+                    "name": "Penguins.jpg",
+                    "url": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/2594035cbe2f43aa9759fc6db77330b2.jpg",
+                    "swf": "",
+                    "type": 1,
+                    "pic": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/s_2594035cbe2f43aa9759fc6db77330b2.jpg",
+                    "size": 777835,
+                    "lpic": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/2594035cbe2f43aa9759fc6db77330b2.jpg",
+                    "descr": "",
+                    "created": 1436239313133,
+                    "imageFiles": [{
+                                   "name": "Penguins.jpg",
+                                   "url": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/2594035cbe2f43aa9759fc6db77330b2.jpg",
+                                   "size": 777835,
+                                   "swf": "",
+                                   "type": 1,
+                                   "pic": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/s_2594035cbe2f43aa9759fc6db77330b2.jpg",
+                                   "lpic": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/l_2594035cbe2f43aa9759fc6db77330b2.jpg",
+                                   "surl": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/s_2594035cbe2f43aa9759fc6db77330b2.jpg",
+                                   "lurl": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/l_2594035cbe2f43aa9759fc6db77330b2.jpg"
+                                   }]
+                    },
+                    "startTime": 1436239313011,
+                    "typeName": "拜访签到",
+                    "typeCategroy": 11,
+                    "content": "移动端_客户_联系人_活动记录_图片_拜访签到",
+                    "date": 1436239313113,
+                    "item": 1540358,
+                    "systemId": "607",
+                    "comments": 0,
+                    "id": 3297228,
+                    "eid": 1540358,
+                    "eName": "移动端_客户_联系人",
+                    "eSystem": 518
+                    }, {
+                    "user": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                    },
+                    "group": {
+                    "gid": 5723808,
+                    "name": "移动端_客户_创建销售机会",
+                    "type": 3,
+                    "permission": 1
+                    },
+                    "from": {
+                    "id": 1540358,
+                    "name": "移动端_客户_联系人",
+                    "belongId": 2,
+                    "belongName": "联系人"
+                    },
+                    "startTime": 1436187346852,
+                    "typeName": "短信",
+                    "typeCategroy": "-12",
+                    "content": "群发短信",
+                    "date": 1436187346853,
+                    "item": 1540358,
+                    "systemId": "607",
+                    "comments": 3,
+                    "id": 3291119,
+                    "eid": 1540358,
+                    "eName": "移动端_客户_联系人",
+                    "eSystem": 518
+                    }]
+    }
+}

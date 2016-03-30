@@ -1,0 +1,54 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "leads": [{
+                  "id": 1131965,
+                  "name": "32523",
+                  "pinyin": "32523",
+                  "companyName": "ertreter",
+                  "created": 1433733613763,
+                  "releaseTimes": 1,
+                  "post": "",
+                  "releaseReason": ""
+                  }, {
+                  "id": 1074579,
+                  "name": "郄娇",
+                  "pinyin": "qiejiao",
+                  "companyName": "东方希望集团有限公司",
+                  "created": 1431582820038,
+                  "releaseTimes": 2,
+                  "post": "",
+                  "releaseReason": "没有购买需求"
+                  }, {
+                  "id": 1074578,
+                  "name": "杨婷婷",
+                  "pinyin": "yangtingting",
+                  "companyName": "山东新希望六和集团有限公司",
+                  "created": 1431582819940,
+                  "releaseTimes": 1,
+                  "post": "",
+                  "releaseReason": ""
+                  }, {
+                  "id": 1074577,
+                  "name": "陈彩霞",
+                  "pinyin": "chencaixia",
+                  "companyName": "浙江恒逸集团有限公司",
+                  "created": 1431582819839,
+                  "releaseTimes": 0,
+                  "post": "",
+                  "releaseReason": ""
+                  }],
+        "highSea": {
+            "id": 60048,
+            "name": "销售线索池",
+            "assignRule": 0
+        },
+        "claimed": 7,
+        "limitNum": 100000
+    }
+}

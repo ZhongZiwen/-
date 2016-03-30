@@ -1,0 +1,17 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "data": "[{\"periodMonth\":1,\"periodName\":\"2015-01\",\"money\":0,\"count\":0},{\"periodMonth\":2,\"periodName\":\"2015-02\",\"money\":0,\"count\":0},{\"periodMonth\":3,\"periodName\":\"2015-03\",\"money\":0,\"count\":0},{\"periodMonth\":4,\"periodName\":\"2015-04\",\"money\":0,\"count\":0},{\"periodMonth\":5,\"periodName\":\"2015-05\",\"money\":0,\"count\":0},{\"periodMonth\":6,\"periodName\":\"2015-06\",\"money\":1000,\"count\":1},{\"periodMonth\":7,\"periodName\":\"2015-07\",\"money\":60000,\"count\":2},{\"periodMonth\":8,\"periodName\":\"2015-08\",\"money\":-1,\"count\":0},{\"periodMonth\":9,\"periodName\":\"2015-09\",\"money\":-1,\"count\":0},{\"periodMonth\":10,\"periodName\":\"2015-10\",\"money\":-1,\"count\":0},{\"periodMonth\":11,\"periodName\":\"2015-11\",\"money\":-1,\"count\":0},{\"periodMonth\":12,\"periodName\":\"2015-12\",\"money\":-1,\"count\":0}]",
+        "titlePrefix": "全公司",
+        "currencyUnit": "元",
+        "entityTypes": [{
+                        "id": "638264",
+                        "typeName": "默认业务类型"
+                        }]
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "notices": [{
+                    "user": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                    },
+                    "id": 4554921,
+                    "target": 329692,
+                    "app": 24,
+                    "group": {
+                    "gid": 1582307,
+                    "name": "田军",
+                    "type": 12,
+                    "permission": 1
+                    },
+                    "content": "转移客户 合并客户一 给你。",
+                    "operate": 1582307,
+                    "system": 1001,
+                    "status": 1,
+                    "created": 1432878208087
+                    }, {
+                    "user": {
+                    "uid": 329694,
+                    "name": "马照",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                    },
+                    "id": 4549618,
+                    "target": 329692,
+                    "app": 11,
+                    "content": "提交了外勤申请流程申请【201505290004】，等待您的审批",
+                    "operate": 181830,
+                    "system": 604,
+                    "status": 1,
+                    "created": 1432868553739
+                    }, {
+                    "user": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                    },
+                    "id": 4514389,
+                    "target": 329692,
+                    "app": 11,
+                    "content": "您的事假申请流程申请【201505280002】已经通过",
+                    "operate": 181340,
+                    "system": 604,
+                    "status": 1,
+                    "created": 1432782895840
+                    }, {
+                    "user": {
+                    "uid": 323203,
+                    "name": "王威振",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/323203/s_c2206e48bcf94340b2cbbe3180f37d2c.jpg"
+                    },
+                    "id": 4494755,
+                    "target": 329692,
+                    "app": 22,
+                    "group": {
+                    "gid": 618825,
+                    "name": "诸城市铭杰自动化设备有限公司",
+                    "type": 2,
+                    "permission": 1
+                    },
+                    "content": "在任务下发布了新的讨论【打电话给客户333111】。",
+                    "operate": 618825,
+                    "system": 606,
+                    "status": 1,
+                    "created": 1432719759863
+                    }, {
+                    "user": {
+                    "uid": 329694,
+                    "name": "马照",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                    },
+                    "id": 4450593,
+                    "target": 329692,
+                    "app": 22,
+                    "group": {
+                    "gid": 616926,
+                    "name": "浙江杭州投资人12",
+                    "type": 2,
+                    "permission": 1
+                    },
+                    "content": "在任务下发布了新的讨论【打电话给客户1】。",
+                    "operate": 616926,
+                    "system": 606,
+                    "status": 1,
+                    "created": 1432611679442
+                    }, {
+                    "user": {
+                    "uid": 329694,
+                    "name": "马照",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                    },
+                    "id": 4347965,
+                    "target": 329692,
+                    "app": 10,
+                    "group": {
+                    "gid": 441460,
+                    "name": "中投",
+                    "type": 2,
+                    "permission": 1
+                    },
+                    "content": "提交了日报【2015-05-22】",
+                    "operate": 441460,
+                    "system": 601,
+                    "status": 1,
+                    "created": 1432262616080
+                    }, {
+                    "user": {
+                    "uid": 329694,
+                    "name": "马照",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                    },
+                    "id": 4268978,
+                    "target": 329692,
+                    "app": 32,
+                    "group": {
+                    "gid": 82357,
+                    "name": "39健康网",
+                    "type": 4,
+                    "permission": 0
+                    },
+                    "content": "邀请你参与他的日程【123123123】。",
+                    "operate": 82357,
+                    "system": 608,
+                    "status": 1,
+                    "created": 1432004260569
+                    }, {
+                    "user": {
+                    "uid": 323203,
+                    "name": "王威振",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/323203/s_c2206e48bcf94340b2cbbe3180f37d2c.jpg"
+                    },
+                    "id": 4153140,
+                    "target": 329692,
+                    "app": 25,
+                    "group": {
+                    "gid": 1074584,
+                    "name": "15123621133",
+                    "type": 2,
+                    "permission": 1
+                    },
+                    "content": "将线索池线索：王珍珍 分配给了你",
+                    "operate": 1074584,
+                    "system": 522,
+                    "status": 1,
+                    "created": 1431604498617
+                    }],
+        "hasMore": true
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "notices": [{
+                    "user": {
+                    "uid": 329700,
+                    "name": "胡阳",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329700/s_f40df0f89c7640c08d7f5bb0095370c3.jpg"
+                    },
+                    "id": 4654282,
+                    "target": 329692,
+                    "app": 9,
+                    "content": "删除了客户： 张大",
+                    "system": 1001,
+                    "status": 1,
+                    "created": 1433222783376
+                    }, {
+                    "user": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                    },
+                    "id": 4641986,
+                    "target": 329692,
+                    "app": 26,
+                    "group": {
+                    "gid": 1112442,
+                    "name": "巴巴爸爸烤肉虎泉",
+                    "type": 2,
+                    "permission": 1
+                    },
+                    "content": "销售线索：姓名 已经被系统自动回收到公海池",
+                    "operate": 1112442,
+                    "system": 522,
+                    "status": 1,
+                    "created": 1433204734403
+                    }, {
+                    "user": {
+                    "uid": 329700,
+                    "name": "胡阳",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329700/s_f40df0f89c7640c08d7f5bb0095370c3.jpg"
+                    },
+                    "id": 4635491,
+                    "target": 329692,
+                    "app": 7,
+                    "group": {
+                    "gid": 4801468,
+                    "name": "对手",
+                    "type": 7,
+                    "permission": 0
+                    },
+                    "operate": 4801468,
+                    "system": 14,
+                    "status": 1,
+                    "created": 1433157754087
+                    }, {
+                    "user": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                    },
+                    "id": 4586537,
+                    "target": 329692,
+                    "app": 26,
+                    "group": {
+                    "gid": 1106065,
+                    "name": "绥化市北林区农村信用合作联社",
+                    "type": 2,
+                    "permission": 1
+                    },
+                    "content": "销售线索：张一会 已经被系统自动回收到公海池",
+                    "operate": 1106065,
+                    "system": 522,
+                    "status": 1,
+                    "created": 1433031890628
+                    }, {
+                    "user": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                    },
+                    "id": 4586534,
+                    "target": 329692,
+                    "app": 27,
+                    "group": {
+                    "gid": 1112442,
+                    "name": "巴巴爸爸烤肉虎泉",
+                    "type": 2,
+                    "permission": 1
+                    },
+                    "content": "销售线索：姓名 即将被收回到公海池，剩余有效期1天",
+                    "operate": 1112442,
+                    "system": 522,
+                    "status": 1,
+                    "created": 1433031890627
+                    }, {
+                    "user": {
+                    "uid": 327474,
+                    "name": "姜洪",
+                    "icon": ""
+                    },
+                    "id": 4572617,
+                    "target": 329692,
+                    "app": 33,
+                    "content": "同意了您的122申请【201505200001】，目前等待下一步审批",
+                    "operate": 178322,
+                    "system": 604,
+                    "status": 1,
+                    "created": 1432930989208
+                    }, {
+                    "user": {
+                    "uid": 329700,
+                    "name": "胡阳",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329700/s_f40df0f89c7640c08d7f5bb0095370c3.jpg"
+                    },
+                    "id": 4543696,
+                    "target": 329692,
+                    "app": 31,
+                    "content": "已将您负责的客户 nbgs 转移。",
+                    "operate": 1572080,
+                    "system": 1001,
+                    "status": 1,
+                    "created": 1432862845461
+                    }, {
+                    "user": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                    },
+                    "id": 4539454,
+                    "target": 329692,
+                    "app": 27,
+                    "group": {
+                    "gid": 1106065,
+                    "name": "绥化市北林区农村信用合作联社",
+                    "type": 2,
+                    "permission": 1
+                    },
+                    "content": "销售线索：张一会 即将被收回到公海池，剩余有效期1天",
+                    "operate": 1106065,
+                    "system": 522,
+                    "status": 1,
+                    "created": 1432859408617
+                    }, {
+                    "user": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                    },
+                    "id": 4539453,
+                    "target": 329692,
+                    "app": 27,
+                    "group": {
+                    "gid": 1107638,
+                    "name": "中国银行业监督管理委员会新疆监督局",
+                    "type": 2,
+                    "permission": 1
+                    },
+                    "content": "销售线索：222 即将被收回到公海池，剩余有效期1天",
+                    "operate": 1107638,
+                    "system": 522,
+                    "status": 1,
+                    "created": 1432859408615
+                    }, {
+                    "user": {
+                    "uid": 323203,
+                    "name": "王威振",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/323203/s_c2206e48bcf94340b2cbbe3180f37d2c.jpg"
+                    },
+                    "id": 4514380,
+                    "target": 329692,
+                    "app": 33,
+                    "content": "同意了您的事假申请流程申请【201505280002】，目前等待下一步审批",
+                    "operate": 181340,
+                    "system": 604,
+                    "status": 1,
+                    "created": 1432782881783
+                    }],
+        "hasMore": true
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "limitNum": 100000,
+        "claimedNum": 7,
+        "highSeas": [{
+                     "id": 60047,
+                     "name": "默认分组",
+                     "assignRule": 0,
+                     "unclaimed": 0,
+                     "claimLimitDay": ""
+                     }, {
+                     "id": 60048,
+                     "name": "销售线索池",
+                     "assignRule": 0,
+                     "unclaimed": 4,
+                     "claimLimitDay": 1
+                     }, {
+                     "id": 60049,
+                     "name": "服务线索池",
+                     "assignRule": 1,
+                     "unclaimed": 9,
+                     "claimLimitDay": ""
+                     }, {
+                     "id": 60052,
+                     "name": "市场线索",
+                     "assignRule": 0,
+                     "unclaimed": 4,
+                     "claimLimitDay": ""
+                     }, {
+                     "id": 60085,
+                     "name": "分组数据管理员&amp;成员",
+                     "assignRule": 1,
+                     "unclaimed": 0,
+                     "claimLimitDay": ""
+                     }, {
+                     "id": 60450,
+                     "name": "展会线索",
+                     "assignRule": 0,
+                     "unclaimed": 0,
+                     "claimLimitDay": 2
+                     }]
+    }
+}

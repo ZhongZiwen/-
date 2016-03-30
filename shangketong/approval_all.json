@@ -1,0 +1,337 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "statistics": {
+            "rejectCount": 2,
+            "waitOtherCount": 15,
+            "waitMeCount": 0
+        },
+        "approvals": [{
+                      "id": 183564,
+                      "status": 3,
+                      "time": 1433246388637,
+                      "cancelFlg": 0,
+                      "name": "延期申请流程【201506020002】",
+                      "applicant": {
+                      "uid": 329700,
+                      "name": "胡阳",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329700/s_f40df0f89c7640c08d7f5bb0095370c3.jpg"
+                      },
+                      "approver": {
+                      "uid": 329700,
+                      "name": "胡阳",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329700/s_f40df0f89c7640c08d7f5bb0095370c3.jpg"
+                      }
+                      }, {
+                      "id": 183350,
+                      "status": 1,
+                      "time": 1433225710344,
+                      "cancelFlg": 0,
+                      "name": "事假申请流程【201506020001】",
+                      "applicant": {
+                      "uid": 329692,
+                      "name": "张彬",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                      },
+                      "approver": {
+                      "uid": 327474,
+                      "name": "姜洪",
+                      "icon": ""
+                      }
+                      }, {
+                      "id": 182345,
+                      "status": 3,
+                      "time": 1432979370754,
+                      "cancelFlg": 0,
+                      "name": "延期申请流程【201505300006】",
+                      "applicant": {
+                      "uid": 329700,
+                      "name": "胡阳",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329700/s_f40df0f89c7640c08d7f5bb0095370c3.jpg"
+                      },
+                      "approver": {
+                      "uid": 329700,
+                      "name": "胡阳",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329700/s_f40df0f89c7640c08d7f5bb0095370c3.jpg"
+                      }
+                      }, {
+                      "id": 182337,
+                      "status": 3,
+                      "time": 1432975278159,
+                      "cancelFlg": 0,
+                      "name": "延期申请流程【201505300005】",
+                      "applicant": {
+                      "uid": 323203,
+                      "name": "王威振",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/323203/s_c2206e48bcf94340b2cbbe3180f37d2c.jpg"
+                      },
+                      "approver": {
+                      "uid": 329700,
+                      "name": "胡阳",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329700/s_f40df0f89c7640c08d7f5bb0095370c3.jpg"
+                      }
+                      }, {
+                      "id": 182335,
+                      "status": 1,
+                      "time": 1432974980434,
+                      "cancelFlg": 0,
+                      "name": "延期申请流程【201505300004】",
+                      "applicant": {
+                      "uid": 329700,
+                      "name": "胡阳",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329700/s_f40df0f89c7640c08d7f5bb0095370c3.jpg"
+                      },
+                      "approver": {
+                      "uid": 329700,
+                      "name": "胡阳",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329700/s_f40df0f89c7640c08d7f5bb0095370c3.jpg"
+                      }
+                      }, {
+                      "id": 182334,
+                      "status": 1,
+                      "time": 1432974746149,
+                      "cancelFlg": 0,
+                      "name": "延期申请流程【201505300003】",
+                      "applicant": {
+                      "uid": 329700,
+                      "name": "胡阳",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329700/s_f40df0f89c7640c08d7f5bb0095370c3.jpg"
+                      },
+                      "approver": {
+                      "uid": 329700,
+                      "name": "胡阳",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329700/s_f40df0f89c7640c08d7f5bb0095370c3.jpg"
+                      }
+                      }, {
+                      "id": 182331,
+                      "status": 2,
+                      "time": 1432974572507,
+                      "cancelFlg": 0,
+                      "name": "延期申请流程【201505300002】",
+                      "applicant": {
+                      "uid": 329700,
+                      "name": "胡阳",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329700/s_f40df0f89c7640c08d7f5bb0095370c3.jpg"
+                      },
+                      "approver": {
+                      "uid": 329700,
+                      "name": "胡阳",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329700/s_f40df0f89c7640c08d7f5bb0095370c3.jpg"
+                      }
+                      }, {
+                      "id": 182330,
+                      "status": 3,
+                      "time": 1432974363082,
+                      "cancelFlg": 0,
+                      "name": "延期申请流程【201505300001】",
+                      "applicant": {
+                      "uid": 329700,
+                      "name": "胡阳",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329700/s_f40df0f89c7640c08d7f5bb0095370c3.jpg"
+                      },
+                      "approver": {
+                      "uid": 329700,
+                      "name": "胡阳",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329700/s_f40df0f89c7640c08d7f5bb0095370c3.jpg"
+                      }
+                      }, {
+                      "id": 181830,
+                      "status": 3,
+                      "time": 1432877679657,
+                      "cancelFlg": 0,
+                      "name": "外勤申请流程【201505290004】",
+                      "applicant": {
+                      "uid": 329694,
+                      "name": "马照",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                      },
+                      "approver": {
+                      "uid": 329692,
+                      "name": "张彬",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                      }
+                      }, {
+                      "id": 181829,
+                      "status": 1,
+                      "time": 1432868525100,
+                      "cancelFlg": 0,
+                      "name": "出差申请流程【201505290003】",
+                      "applicant": {
+                      "uid": 323203,
+                      "name": "王威振",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/323203/s_c2206e48bcf94340b2cbbe3180f37d2c.jpg"
+                      },
+                      "approver": {
+                      "uid": 329694,
+                      "name": "马照",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                      }
+                      }, {
+                      "id": 181828,
+                      "status": 1,
+                      "time": 1432868500778,
+                      "cancelFlg": 0,
+                      "name": "1【201505290002】",
+                      "applicant": {
+                      "uid": 329692,
+                      "name": "张彬",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                      },
+                      "approver": {
+                      "uid": 323203,
+                      "name": "王威振",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/323203/s_c2206e48bcf94340b2cbbe3180f37d2c.jpg"
+                      }
+                      }, {
+                      "id": 181827,
+                      "status": 1,
+                      "time": 1432868485546,
+                      "cancelFlg": 0,
+                      "name": "病假申请流程【201505290001】",
+                      "applicant": {
+                      "uid": 329692,
+                      "name": "张彬",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                      },
+                      "approver": {
+                      "uid": 323203,
+                      "name": "王威振",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/323203/s_c2206e48bcf94340b2cbbe3180f37d2c.jpg"
+                      }
+                      }, {
+                      "id": 181343,
+                      "status": 1,
+                      "time": 1432783156465,
+                      "cancelFlg": 0,
+                      "name": "延期申请流程【201505280003】",
+                      "applicant": {
+                      "uid": 329692,
+                      "name": "张彬",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                      },
+                      "approver": {
+                      "uid": 323203,
+                      "name": "王威振",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/323203/s_c2206e48bcf94340b2cbbe3180f37d2c.jpg"
+                      }
+                      }, {
+                      "id": 181340,
+                      "status": 3,
+                      "time": 1432782896266,
+                      "cancelFlg": 0,
+                      "name": "事假申请流程【201505280002】",
+                      "applicant": {
+                      "uid": 329692,
+                      "name": "张彬",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                      },
+                      "approver": {
+                      "uid": 329694,
+                      "name": "马照",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                      }
+                      }, {
+                      "id": 180519,
+                      "status": 1,
+                      "time": 1432631433101,
+                      "cancelFlg": 0,
+                      "name": "事假申请流程【201505260003】",
+                      "applicant": {
+                      "uid": 329692,
+                      "name": "张彬",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                      },
+                      "approver": {
+                      "uid": 329695,
+                      "name": "李佳",
+                      "icon": ""
+                      }
+                      }, {
+                      "id": 180509,
+                      "status": 1,
+                      "time": 1432630853685,
+                      "cancelFlg": 0,
+                      "name": "事假申请流程【201505260002】",
+                      "applicant": {
+                      "uid": 329692,
+                      "name": "张彬",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                      },
+                      "approver": {
+                      "uid": 329695,
+                      "name": "李佳",
+                      "icon": ""
+                      }
+                      }, {
+                      "id": 180505,
+                      "status": 1,
+                      "time": 1432630693764,
+                      "cancelFlg": 0,
+                      "name": "事假申请流程【201505260001】",
+                      "applicant": {
+                      "uid": 329692,
+                      "name": "张彬",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                      },
+                      "approver": {
+                      "uid": 329693,
+                      "name": "房单",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329693/s_81cf2efe2c9d4ff48ce1caa788e97394.jpg"
+                      }
+                      }, {
+                      "id": 179288,
+                      "status": 1,
+                      "time": 1432293859880,
+                      "cancelFlg": 0,
+                      "name": "延期申请流程【201505220001】",
+                      "applicant": {
+                      "uid": 329692,
+                      "name": "张彬",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                      },
+                      "approver": {
+                      "uid": 329694,
+                      "name": "马照",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                      }
+                      }, {
+                      "id": 178625,
+                      "status": 1,
+                      "time": 1432187851722,
+                      "cancelFlg": 0,
+                      "name": "cs【201505210002】",
+                      "applicant": {
+                      "uid": 329692,
+                      "name": "张彬",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                      },
+                      "approver": {
+                      "uid": 329694,
+                      "name": "马照",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                      }
+                      }, {
+                      "id": 178524,
+                      "status": 1,
+                      "time": 1432177048036,
+                      "cancelFlg": 0,
+                      "name": "加班【201505210001】",
+                      "applicant": {
+                      "uid": 329692,
+                      "name": "张彬",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                      },
+                      "approver": {
+                      "uid": 329694,
+                      "name": "马照",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                      }
+                      }],
+        "hasMore": true
+    }
+}

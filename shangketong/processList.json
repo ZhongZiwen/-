@@ -1,0 +1,28 @@
+{
+    "apply": {
+        "updatedAt": 1432782838777,
+        "createdBy": {
+            "uid": 329692,
+            "name": "张彬",
+            "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+        }
+    },
+    "approvals": [{
+                  "result": 1,
+                  "approvalTime": 1432782881610,
+                  "approvalUser": {
+                  "uid": 323203,
+                  "name": "王威振",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/323203/s_c2206e48bcf94340b2cbbe3180f37d2c.jpg"
+                  }
+                  }, {
+                  "result": 1,
+                  "approvalTime": 1432782895050,
+                  "approvalUser": {
+                  "uid": 329694,
+                  "name": "马照",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                  }
+                  }],
+    "flowSteps": []
+}

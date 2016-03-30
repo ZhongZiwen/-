@@ -1,0 +1,43 @@
+{
+    "scode": "0",
+    "body": {
+        "passwordFlag": 0,
+        "serverTime": 1436951635597,
+        "tenants": [{
+                    "id": 151745,
+                    "name": "禧隆上海",
+                    "type": 0,
+                    "token": "FB1DVoNUjpV9NlYm3RJ8E8U42RvCtCfVPKwEZxQ7SHo="
+                    }, {
+                    "id": 153271,
+                    "name": "泰州太慢啦电子商务有限公司",
+                    "type": 0,
+                    "token": "FB1DVoNUjpUnfexdYrPnjMU42RvCtCfVPKwEZxQ7SHo="
+                    }, {
+                    "id": 153360,
+                    "name": "泰州太慢了电子商务有限公司",
+                    "type": 0,
+                    "token": "FB1DVoNUjpXMv5ZqyyEMAMU42RvCtCfVPKwEZxQ7SHo="
+                    }, {
+                    "id": 156630,
+                    "name": "福隆资产发展有限公司",
+                    "type": 0,
+                    "token": "FB1DVoNUjpVgkPtnlk3SRcU42RvCtCfVPKwEZxQ7SHo="
+                    }, {
+                    "id": 156817,
+                    "name": "福建福隆资产管理有限公司",
+                    "type": 0,
+                    "token": "FB1DVoNUjpWRS0MlHHlcBMU42RvCtCfVPKwEZxQ7SHo="
+                    }, {
+                    "id": 157543,
+                    "name": "公司名称",
+                    "type": 0,
+                    "token": "FB1DVoNUjpVJ5FhnDPFAxMU42RvCtCfVPKwEZxQ7SHo="
+                    }, {
+                    "id": 160667,
+                    "name": "坚决不动",
+                    "type": 0,
+                    "token": "FB1DVoNUjpVE/QqOenZ/5sU42RvCtCfVPKwEZxQ7SHo="
+                    }]
+    }
+}

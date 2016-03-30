@@ -1,0 +1,87 @@
+{
+    "scode": "0",
+    "resultMap": {
+        "data": [{
+                   "ivrId": "11681179638",
+                  "navigationName":"导航1",
+                  "navigationLineNum":"3",
+                  "navigationNum":"3",
+                  "navigationOnlineNum":"3",
+                  "seats":
+                  [{
+                   "sitId": "75d68d47-6e7f-412f-b555-d49b32e428f6",
+                   "sitName": "张三",
+                   "sitNo": "1001",
+                   "phone": "13918745346",
+                   "sitStatus": "0"
+                   },{
+                   "sitId": "c69104f2-69a7-481e-9035-4ef16aebe273",
+                   "sitName": "张三2",
+                   "sitNo": "1002",
+                   "phone": "13918745346",
+                   "sitStatus": "1"
+                   },{
+                   "sitId": "1ee6f5cc-1579-4075-9f78-3266a07ce4ed",
+                   "sitName": "张三3",
+                   "sitNo": "1003",
+                   "phone": "13918745346",
+                   "sitStatus": "2"
+                   }]
+                  
+                  },{
+                   "ivrId": "11681179638",
+                "navigationName":"导航2",
+                "navigationLineNum":"3",
+                "navigationNum":"5",
+                "navigationOnlineNum":"3",
+                "seats":
+                [{
+                 "sitId": "2efb297a-8084-48ff-8195-a2331332ddf7",
+                 "sitName": "张三",
+                 "sitNo": "2001",
+                 "phone": "13918745346",
+                 "sitStatus": "0"
+                 },{
+                 "sitId": "b51c61a7-48d6-4dcc-b6af-a9884a13f9e3",
+                 "sitName": "张三2",
+                 "sitNo": "2002",
+                 "phone": "13918745346",
+                 "sitStatus": "1"
+                 },{
+                 "sitId": "b51c61a7-48d6-4dcc-b6af-a9884a13f9e3",
+                 "sitName": "张三3",
+                 "sitNo": "2003",
+                 "phone": "13918745346",
+                 "sitStatus": "2"
+                 }]
+                
+                  },{
+                   "ivrId": "11681179638",
+                "navigationName":"导航3",
+                "navigationLineNum":"5",
+                "navigationNum":"8",
+                "navigationOnlineNum":"3",
+                "seats":
+                [{
+                 "sitId": "b51c61a7-48d6-4dcc-b6af-a9884a13f9e3",
+                 "sitName": "张三",
+                 "sitNo": "3001",
+                 "phone": "13918745346",
+                 "sitStatus": "0"
+                 },{
+                 "sitId": "b51c61a7-48d6-4dcc-b6af-a9884a13f9e3",
+                 "sitName": "张三2",
+                 "sitNo": "3002",
+                 "phone": "13918745346",
+                 "sitStatus": "1"
+                 },{
+                 "sitId": "b51c61a7-48d6-4dcc-b6af-a9884a13f9e3",
+                 "sitName": "张三3",
+                 "sitNo": "3003",
+                 "phone": "13918745346",
+                 "sitStatus": "2"
+                 }]
+                
+                  }]
+    }
+}

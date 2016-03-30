@@ -1,0 +1,217 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "tasks": [{
+                  "id": 677159,
+                  "ownerId": 329692,
+                  "ownerName": "张彬",
+                  "taskName": "sdfadsfs",
+                  "planFinishDate": 1437364800000,
+                  "expired": false,
+                  "createdBy": 323203,
+                  "status": "3",
+                  "belongId": "",
+                  "objectId": "",
+                  "contactInfos": [],
+                  "from": {}
+                  }, {
+                  "id": 677166,
+                  "ownerId": 329692,
+                  "ownerName": "张彬",
+                  "taskName": "sdafsdfasdfasdfdsaf",
+                  "planFinishDate": 1437364800000,
+                  "expired": true,
+                  "createdBy": 329692,
+                  "status": "1",
+                  "belongId": "1",
+                  "objectId": "1517804",
+                  "contactInfos": [{
+                                   "name": "111",
+                                   "mobile": "1111111111111111",
+                                   "phone": ""
+                                   }],
+                  "from": {
+                  "id": 1517804,
+                  "belongId": 1,
+                  "belongName": "客户",
+                  "name": "肯德基",
+                  "address": ""
+                  }
+                  }, {
+                  "id": 677165,
+                  "ownerId": 323203,
+                  "ownerName": "王威振",
+                  "taskName": "sadfsd sdfasd",
+                  "planFinishDate": 1437364800000,
+                  "expired": true,
+                  "createdBy": 323203,
+                  "status": "1",
+                  "belongId": "",
+                  "objectId": "",
+                  "contactInfos": [],
+                  "from": {}
+                  }, {
+                  "id": 677168,
+                  "ownerId": 323203,
+                  "ownerName": "王威振",
+                  "taskName": "tuichu _++++",
+                  "planFinishDate": 1437364800000,
+                  "expired": true,
+                  "createdBy": 323203,
+                  "status": "1",
+                  "belongId": "1",
+                  "objectId": "1517804",
+                  "contactInfos": [{
+                                   "name": "111",
+                                   "mobile": "1111111111111111",
+                                   "phone": ""
+                                   }],
+                  "from": {
+                  "id": 1517804,
+                  "belongId": 1,
+                  "belongName": "客户",
+                  "name": "肯德基",
+                  "address": ""
+                  }
+                  }],
+        "schedules": [{
+                      "id": "92901",
+                      "name": "议会统计",
+                      "description": "琢磨琢磨",
+                      "startDate": "1433260800000",
+                      "endDate": "1433260800000",
+                      "isAllDay": "1",
+                      "isRecur": "1",
+                      "frequency": "1",
+                      "interval": "1",
+                      "recurStopCondition": "1",
+                      "recurStopValue": "0",
+                      "finalFinishTime": "253402271999000",
+                      "isPrivate": "0",
+                      "accessible": "true",
+                      "status": "3",
+                      "createdAt": "1433151084419",
+                      "updatedAt": "1434166959963",
+                      "createdBy": "329692",
+                      "updatedBy": "329692",
+                      "reminder": -1,
+                      "rules": "",
+                      "from": {
+                      "id": 1505207,
+                      "belongId": 1,
+                      "belongName": "客户",
+                      "name": "固南通市通州区人民政府",
+                      "address": "江苏省南通市通州区世纪大道269号",
+                      "position": {
+                      "lat": "",
+                      "lon": ""
+                      }
+                      },
+                      "colorType": {
+                      "id": "",
+                      "name": "",
+                      "color": "",
+                      "dummyType": ""
+                      },
+                      "contactInfos": [{
+                                       "name": "刘洪圃",
+                                       "mobile": "13515205998",
+                                       "phone": "051386512072"
+                                       }]
+                      }, {
+                      "id": "82656",
+                      "name": "这是会议描述",
+                      "description": "",
+                      "startDate": "1432051200000",
+                      "endDate": "1432137600000",
+                      "isAllDay": "1",
+                      "isRecur": "1",
+                      "frequency": "3",
+                      "interval": "1",
+                      "recurStopCondition": "1",
+                      "recurStopValue": "0",
+                      "finalFinishTime": "253402271999000",
+                      "isPrivate": "0",
+                      "accessible": "true",
+                      "status": "3",
+                      "createdAt": "1432023751195",
+                      "updatedAt": "1434679472312",
+                      "createdBy": "329692",
+                      "updatedBy": "329692",
+                      "reminder": -1,
+                      "rules": "",
+                      "from": {},
+                      "colorType": {
+                      "id": "",
+                      "name": "",
+                      "color": "",
+                      "dummyType": ""
+                      },
+                      "contactInfos": []
+                      }, {
+                      "id": "120294",
+                      "name": "移动端_日程",
+                      "description": "备注",
+                      "startDate": "1435903200000",
+                      "endDate": "1435910400000",
+                      "isAllDay": "0",
+                      "isRecur": "1",
+                      "frequency": "1",
+                      "interval": "1",
+                      "recurStopCondition": "2",
+                      "recurStopValue": "1438185600000",
+                      "finalFinishTime": "1438185600000",
+                      "isPrivate": "0",
+                      "accessible": "true",
+                      "status": "3",
+                      "createdAt": "1436254737730",
+                      "updatedAt": "1436863663620",
+                      "createdBy": "329692",
+                      "updatedBy": "329692",
+                      "reminder": -1,
+                      "rules": "",
+                      "from": {
+                      "id": 1517820,
+                      "belongId": 1,
+                      "belongName": "客户",
+                      "name": "现代物流",
+                      "address": "",
+                      "position": {
+                      "lat": "",
+                      "lon": ""
+                      }
+                      },
+                      "colorType": {
+                      "id": 0,
+                      "name": "其他",
+                      "color": "schedule_none",
+                      "dummyType": ""
+                      },
+                      "contactInfos": []
+                      }],
+        "visitsFinishStatus": {},
+        "goodNews": {
+            "winCount": "0",
+            "winMoney": "0.0"
+        },
+        "users": {
+            "329692": {
+                "id": "329692",
+                "name": "张彬",
+                "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+            },
+            "323203": {
+                "id": "323203",
+                "name": "王威振",
+                "icon": "https://rs.ingageapp.com/upload/i/151745/323203/s_17f15a3bf8f74a34a254b170d10c7e89.jpg"
+            }
+        },
+        "current_time": "1437364849149",
+        "currencyUnit": "元"
+    }
+}

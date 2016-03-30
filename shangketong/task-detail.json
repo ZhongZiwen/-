@@ -1,0 +1,87 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "name": "打电话给客户333111",
+        "status": 1,
+        "description": "明细清单",
+        "id": 618825,
+        "isMine": true,
+        "date": 1432807200000,
+        "priority": "",
+        "owner": {
+            "uid": 323203,
+            "name": "王威振",
+            "icon": "https://rs.ingageapp.com/upload/i/151745/323203/s_c2206e48bcf94340b2cbbe3180f37d2c.jpg"
+        },
+        "createdBy": {
+            "uid": 329692,
+            "name": "张彬",
+            "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+        },
+        "createdAt": 1432719315346,
+        "members": [{
+                    "uid": 323203,
+                    "name": "王威振",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/323203/s_c2206e48bcf94340b2cbbe3180f37d2c.jpg"
+                    }, {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                    }, {
+                    "uid": 329696,
+                    "name": "姜军",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329696/s_86a6a0e7377643f5aaa08932adbc3fb3.jpg"
+                    }, {
+                    "uid": 329693,
+                    "name": "房单",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329693/s_81cf2efe2c9d4ff48ce1caa788e97394.jpg"
+                    }],
+        "files": [{
+                  "fid": 373121,
+                  "uname": "王威振",
+                  "name": "Hydrangeas.jpg",
+                  "url": "https://rs.ingageapp.com/upload/image/151745/2015/05/27/dd72e0ff3c8142ab9c68b2c2e9fdd0c5.jpg",
+                  "type": 1,
+                  "pic": "https://rs.ingageapp.com/upload/image/151745/2015/05/27/s_dd72e0ff3c8142ab9c68b2c2e9fdd0c5.jpg",
+                  "size": 595284,
+                  "created": 1432719796983
+                  }],
+        "source": "account",
+        "sourceObject": {
+            "sourceId": 1505207,
+            "sourceName": "固南通市通州区人民政府"
+        },
+        "commentCount": 2,
+        "comments": [{
+                     "user": {
+                     "uid": 323203,
+                     "name": "王威振",
+                     "icon": "https://rs.ingageapp.com/upload/i/151745/323203/s_c2206e48bcf94340b2cbbe3180f37d2c.jpg",
+                     "prefix": "王威振"
+                     },
+                     "ats": [{
+                             "uid": 329699,
+                             "prefix": "赵平",
+                             "name": "赵平"
+                             }],
+                     "content": "@赵平",
+                     "id": 540891,
+                     "date": 1432719759831
+                     }, {
+                     "user": {
+                     "uid": 323203,
+                     "name": "王威振",
+                     "icon": "https://rs.ingageapp.com/upload/i/151745/323203/s_c2206e48bcf94340b2cbbe3180f37d2c.jpg",
+                     "prefix": "王威振"
+                     },
+                     "content": "1111",
+                     "id": 540890,
+                     "date": 1432719747958
+                     }]
+    }
+}

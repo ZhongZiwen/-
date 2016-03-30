@@ -1,0 +1,56 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "salesParameter": [{
+                           "id": "1332422",
+                           "color": "schedule_green",
+                           "name": "会议",
+                           "dummyType": "31"
+                           }, {
+                           "id": "1332423",
+                           "color": "schedule_yellow",
+                           "name": "拜访客户",
+                           "dummyType": "31"
+                           }, {
+                           "id": "1743702",
+                           "color": "schedule_lightgreen",
+                           "name": "电话",
+                           "dummyType": ""
+                           }, {
+                           "id": "1743737",
+                           "color": "schedule_red",
+                           "name": "观察",
+                           "dummyType": ""
+                           }, {
+                           "id": "1743738",
+                           "color": "schedule_lightgreen",
+                           "name": "测速仪",
+                           "dummyType": ""
+                           }, {
+                           "id": "1743739",
+                           "color": "schedule_violet",
+                           "name": "颜色种类太多",
+                           "dummyType": ""
+                           }, {
+                           "id": "1743741",
+                           "color": "schedule_rosered",
+                           "name": "呵呵",
+                           "dummyType": ""
+                           }, {
+                           "id": "1743743",
+                           "color": "schedule_brown",
+                           "name": "最后一个",
+                           "dummyType": ""
+                           }, {
+                           "id": "0",
+                           "color": "schedule_none",
+                           "name": "其他",
+                           "dummyType": ""
+                           }]
+    }
+}

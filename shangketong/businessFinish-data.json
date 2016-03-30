@@ -1,0 +1,157 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "dashBoardType": 1001,
+        "chart": {
+            "id": "3342919",
+            "name": "销售目标完成情况",
+            "type": "1001",
+            "belongId": "3",
+            "periodType": "month",
+            "entityTypeIds": "",
+            "data": "{\"quota\":1000,\"actuals\":1.1230311E7,\"currencyUnit\":\"元\"}"
+        },
+        "currencyUnit": "元",
+        "conditions": [{
+                       "des": "销售机会所有人等于张彬"
+                       }],
+        "entities": [{
+                     "id": 334377,
+                     "name": "你猜",
+                     "ownerId": 329692,
+                     "pinyin": "nicai",
+                     "accountId": 1722738,
+                     "stageId": 324132,
+                     "money": 10000,
+                     "innerGroupId": 5367697,
+                     "canFollow": "",
+                     "isFollow": "",
+                     "delFlg": 0,
+                     "winRate": 100,
+                     "updatedAt": 1435392652404
+                     }, {
+                     "id": 321846,
+                     "name": "客户想买400产品",
+                     "ownerId": 329692,
+                     "pinyin": "kehuxiangmai400chanpin",
+                     "accountId": 1620031,
+                     "stageId": 324132,
+                     "money": 100000,
+                     "innerGroupId": 5066235,
+                     "canFollow": "",
+                     "isFollow": "",
+                     "delFlg": 0,
+                     "winRate": 100,
+                     "updatedAt": 1435285346474
+                     }, {
+                     "id": 319397,
+                     "name": "guanlianyewu-1",
+                     "ownerId": 329692,
+                     "pinyin": "guanlianyewu-1",
+                     "accountId": 1668645,
+                     "stageId": 324132,
+                     "money": 1.1111111E7,
+                     "innerGroupId": 5032176,
+                     "canFollow": "",
+                     "isFollow": "",
+                     "delFlg": 0,
+                     "winRate": 100,
+                     "updatedAt": 1435391931573
+                     }, {
+                     "id": 314291,
+                     "name": "想买400产品",
+                     "ownerId": 329692,
+                     "pinyin": "xiangmai400chanpin",
+                     "accountId": 1656858,
+                     "stageId": 324132,
+                     "money": 8000,
+                     "innerGroupId": 4976907,
+                     "canFollow": "",
+                     "isFollow": "",
+                     "delFlg": 0,
+                     "winRate": 100,
+                     "updatedAt": 1434355594700
+                     }, {
+                     "id": 314288,
+                     "name": "想买产品",
+                     "ownerId": 329692,
+                     "pinyin": "xiangmaichanpin",
+                     "accountId": 1656836,
+                     "stageId": 324132,
+                     "money": 1200,
+                     "innerGroupId": 4976887,
+                     "canFollow": "",
+                     "isFollow": "",
+                     "delFlg": 0,
+                     "winRate": 100,
+                     "updatedAt": 1434353604912
+                     }],
+        "stages": {
+            "324128": {
+                "uid": "324128",
+                "name": "初步接洽"
+            },
+            "324129": {
+                "uid": "324129",
+                "name": "需求确定"
+            },
+            "324130": {
+                "uid": "324130",
+                "name": "方案/报价"
+            },
+            "324131": {
+                "uid": "324131",
+                "name": "谈判审核"
+            },
+            "324132": {
+                "uid": "324132",
+                "name": "赢单"
+            },
+            "324133": {
+                "uid": "324133",
+                "name": "输单"
+            }
+        },
+        "users": {
+            "329700": {
+                "uid": "329700",
+                "name": "胡阳",
+                "icon": "https://rs.ingageapp.com/upload/i/151745/329700/s_f40df0f89c7640c08d7f5bb0095370c3.jpg"
+            },
+            "329692": {
+                "uid": "329692",
+                "name": "张彬",
+                "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+            }
+        },
+        "accounts": {
+            "1656858": {
+                "id": "1656858",
+                "name": "华宇（安徽）工艺品有限公司"
+            },
+            "1668645": {
+                "id": "1668645",
+                "name": "guanlianyewu"
+            },
+            "1656836": {
+                "id": "1656836",
+                "name": "谭昊鹏"
+            },
+            "1722738": {
+                "id": "1722738",
+                "name": "东方希望集团有限公司"
+            },
+            "1620031": {
+                "id": "1620031",
+                "name": "泰州电子商务"
+            }
+        },
+        "count": 5,
+        "currencyUnit": "元"
+    }
+}

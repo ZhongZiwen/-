@@ -1,0 +1,36 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "users": [{
+                  "uid": 329694,
+                  "name": "马照",
+                  "pinyin": "mazhao",
+                  "st": 1
+                  }, {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "pinyin": "zhangbin",
+                  "st": 1
+                  }, {
+                  "uid": 329696,
+                  "name": "姜军",
+                  "pinyin": "jiangjun",
+                  "st": 1
+                  }, {
+                  "uid": 329695,
+                  "name": "sryr",
+                  "pinyin": "sryr",
+                  "st": 1
+                  }, {
+                  "uid": 329693,
+                  "name": "房单",
+                  "pinyin": "fangdan",
+                  "st": 1
+                  }]
+    }
+}

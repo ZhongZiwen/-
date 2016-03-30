@@ -1,0 +1,179 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "allowSelectApprover": true,
+        "repeatApprovalFlg": false,
+        "uploadFlag": 1,
+        "uploadRequiredFlg": 0,
+        "businessFlg": 1,
+        "businessRequiredFlg": 1,
+        "invalidApply": "",
+        "businessObjects": [{
+                            "id": "1",
+                            "name": "客户"
+                            }, {
+                            "id": "3",
+                            "name": "销售机会"
+                            }, {
+                            "id": "2",
+                            "name": "联系人"
+                            }, {
+                            "id": "11",
+                            "name": "销售线索"
+                            }, {
+                            "id": "6",
+                            "name": "市场活动"
+                            }],
+        "approvers": [{
+                      "uid": 327474,
+                      "name": "姜洪",
+                      "icon": ""
+                      }, {
+                      "uid": 329693,
+                      "name": "房单",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329693/s_81cf2efe2c9d4ff48ce1caa788e97394.jpg"
+                      }, {
+                      "uid": 329695,
+                      "name": "sryr",
+                      "icon": "https://rs.ingageapp.com/upload/i/151745/329695/s_bb9796b057c146c5bd21b182b380850c.jpg"
+                      }],
+        "approvalUser": {
+            "uid": 323203,
+            "name": "王威振",
+            "icon": "https://rs.ingageapp.com/upload/i/151745/323203/s_c2206e48bcf94340b2cbbe3180f37d2c.jpg"
+        },
+        "opinion": "",
+        "currentApprovalTime": 1432776771378,
+        "status": 2,
+        "updatedAt": 1432776795386,
+        "cancelFlg": 1,
+        "belongId": 1,
+        "objectId": 1505204,
+        "commentCount": 3,
+        "comments": [{
+                     "user": {
+                     "uid": 329692,
+                     "name": "张彬",
+                     "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg",
+                     "prefix": "张彬"
+                     },
+                     "content": "提交 @123 提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123 提交 @123 提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123 提交 @123 提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123提交 @123",
+                     "id": 557357,
+                     "date": 1433473771947
+                     }, {
+                     "user": {
+                     "uid": 329692,
+                     "name": "张彬",
+                     "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg",
+                     "prefix": "张彬"
+                     },
+                     "content": "是",
+                     "id": 509578,
+                     "date": 1431331375209
+                     }, {
+                     "user": {
+                     "uid": 329692,
+                     "name": "张彬",
+                     "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg",
+                     "prefix": "张彬"
+                     },
+                     "content": "。。",
+                     "id": 509571,
+                     "date": 1431331280501
+                     }],
+        "entityName": "总部旗舰店",
+        "copys": [{
+                  "uid": 329694,
+                  "name": "马照",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                  }],
+        "processList": {
+            "apply": {
+                "updatedAt": 1432776771380,
+                "createdBy": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                }
+            },
+            "approvals": [{
+                          "result": -1,
+                          "approvalTime": 1432776771378,
+                          "approvalUser": {
+                          "uid": 323203,
+                          "name": "王威振",
+                          "icon": "https://rs.ingageapp.com/upload/i/151745/323203/s_c2206e48bcf94340b2cbbe3180f37d2c.jpg"
+                          }
+                          }],
+            "flowSteps": [{
+                          "name": "第2级审批"
+                          }]
+        },
+        "itemList": [{
+                     "id": "14057926",
+                     "itemName": "结束时间",
+                     "itemValue": "",
+                     "itemTypeEntry": "7",
+                     "mustEnterFlg": "0",
+                     "quickCreateFlg": "",
+                     "dateMode": "2",
+                     "resolution": "",
+                     "currencyFlg": "",
+                     "inputMaxLength": "10",
+                     "entryPropertyName": "apply.dbcDate2"
+                     }, {
+                     "id": "14057927",
+                     "itemName": "请假小时数",
+                     "itemValue": "",
+                     "itemTypeEntry": "6",
+                     "mustEnterFlg": "0",
+                     "quickCreateFlg": "",
+                     "dateMode": "0",
+                     "resolution": "1",
+                     "currencyFlg": "",
+                     "inputMaxLength": "20",
+                     "entryPropertyName": "apply.dbcReal1"
+                     }, {
+                     "id": "14057928",
+                     "itemName": "请假事由",
+                     "itemValue": "",
+                     "itemTypeEntry": "2",
+                     "mustEnterFlg": "0",
+                     "quickCreateFlg": "",
+                     "dateMode": "0",
+                     "resolution": "",
+                     "currencyFlg": "",
+                     "inputMaxLength": "",
+                     "entryPropertyName": "apply.dbcTextarea1"
+                     }, {
+                     "id": "14057925",
+                     "itemName": "开始时间",
+                     "itemValue": "",
+                     "itemTypeEntry": "7",
+                     "mustEnterFlg": "0",
+                     "quickCreateFlg": "",
+                     "dateMode": "1",
+                     "resolution": "",
+                     "currencyFlg": "",
+                     "inputMaxLength": "10",
+                     "entryPropertyName": "apply.dbcDate1"
+                     }, {
+                     "id": "16934205",
+                     "itemName": "请假说明",
+                     "itemValue": "222",
+                     "itemTypeEntry": "1",
+                     "mustEnterFlg": "1",
+                     "quickCreateFlg": "",
+                     "dateMode": "1",
+                     "resolution": "",
+                     "currencyFlg": "",
+                     "inputMaxLength": "300",
+                     "entryPropertyName": "apply.dbcVarchar1"
+                     }]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "type": 0,
+        "language": 1,
+        "uid": 329692,
+        "name": "张彬",
+        "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg",
+        "isEmailBound": true,
+        "isMobileBound": false,
+        "crmLicense": true,
+        "passport": "",
+        "email": "296075612@qq.com",
+        "followStatus": 1,
+        "depart": "客服部",
+        "post": "客服",
+        "tel": "888888888",
+        "exTel": "8888",
+        "mobile": "18796415505",
+        "selfIntro": "开朗，活泼！",
+        "expertise": "专业销售"
+    }
+}

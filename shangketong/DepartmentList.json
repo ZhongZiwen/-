@@ -1,0 +1,22 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "departments": [{
+                        "id": 174481,
+                        "name": "上海分公司",
+                        "pinyin": "shanghaifengongsi",
+                        "icon": "",
+                        "type": 2,
+                        "groupId": 4187519,
+                        "admins": "327474,329693,329695,329696,329702,329692,323203,329694",
+                        "isMember": true,
+                        "count": 9,
+                        "hasChildren": true
+                        }]
+    }
+}

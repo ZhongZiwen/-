@@ -1,0 +1,44 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "departments": [{
+                        "id": 179950,
+                        "name": "销售部",
+                        "pinyin": "xiaoshoubu",
+                        "icon": "",
+                        "type": 2,
+                        "groupId": 4444545,
+                        "admins": "329702",
+                        "isMember": false,
+                        "count": 2,
+                        "hasChildren": true
+                        }, {
+                        "id": 179951,
+                        "name": "客服部",
+                        "pinyin": "kefubu",
+                        "icon": "",
+                        "type": 2,
+                        "groupId": 4444552,
+                        "admins": "329693",
+                        "isMember": true,
+                        "count": 5,
+                        "hasChildren": false
+                        }, {
+                        "id": 182624,
+                        "name": "技术部",
+                        "pinyin": "jishubu",
+                        "icon": "",
+                        "type": 2,
+                        "groupId": 4611008,
+                        "admins": "",
+                        "isMember": false,
+                        "count": 3,
+                        "hasChildren": false
+                        }]
+    }
+}

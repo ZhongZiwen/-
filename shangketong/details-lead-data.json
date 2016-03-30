@@ -1,0 +1,189 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "records": [{
+                    "user": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                    },
+                    "from": {
+                    "id": 1248092,
+                    "name": "移动端_市场活动_新建销售线索",
+                    "belongId": 11,
+                    "belongName": "销售线索"
+                    },
+                    "startTime": 1436251634948,
+                    "typeName": "完成任务",
+                    "typeCategroy": "-10",
+                    "taskId": 663383,
+                    "taskDescription": "",
+                    "taskCreatedBy": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                    },
+                    "taskCreatedAt": 1436251619365,
+                    "taskMembers": [],
+                    "fileCount": 0,
+                    "content": "移动端_市场活动_销售线索_给自己安排任务",
+                    "date": 1436251634993,
+                    "item": 1248092,
+                    "systemId": "607",
+                    "comments": "",
+                    "id": 3301511,
+                    "eid": 1248092,
+                    "eName": "移动端_市场活动_新建销售线索",
+                    "eSystem": 522
+                    }, {
+                    "user": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                    },
+                    "from": {
+                    "id": 1248092,
+                    "name": "移动端_市场活动_新建销售线索",
+                    "belongId": 11,
+                    "belongName": "销售线索"
+                    },
+                    "startTime": 1436251633199,
+                    "typeName": "完成任务",
+                    "typeCategroy": "-10",
+                    "taskId": 663383,
+                    "taskDescription": "",
+                    "taskCreatedBy": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                    },
+                    "taskCreatedAt": 1436251619365,
+                    "taskMembers": [],
+                    "fileCount": 0,
+                    "content": "移动端_市场活动_销售线索_给自己安排任务",
+                    "date": 1436251633257,
+                    "item": 1248092,
+                    "systemId": "607",
+                    "comments": "",
+                    "id": 3301509,
+                    "eid": 1248092,
+                    "eName": "移动端_市场活动_新建销售线索",
+                    "eSystem": 522
+                    }, {
+                    "user": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                    },
+                    "group": {
+                    "gid": 5723758,
+                    "name": "移动端_市场活动_新建销售线索",
+                    "type": 12,
+                    "permission": 1
+                    },
+                    "from": {
+                    "id": 1248092,
+                    "name": "移动端_市场活动_新建销售线索",
+                    "belongId": 11,
+                    "belongName": "销售线索"
+                    },
+                    "file": {
+                    "fid": 453354,
+                    "uid": 329692,
+                    "uname": "张彬",
+                    "name": "欢迎扫描.jpg",
+                    "url": "https://rs.ingageapp.com/upload/f/151745/2015/07/07/4e7c0c140cb6477d8c130e38057d5651.jpg",
+                    "swf": "",
+                    "type": 0,
+                    "pic": "",
+                    "size": 516424,
+                    "lpic": "https://rs.ingageapp.com/upload/f/151745/2015/07/07/4e7c0c140cb6477d8c130e38057d5651.jpg",
+                    "descr": "移动端_市场活动_新建销售线索_活动记录_记录_文件_文件描述",
+                    "created": 1436251433227,
+                    "imageFiles": [{
+                                   "name": "欢迎扫描.jpg",
+                                   "url": "https://rs.ingageapp.com/upload/f/151745/2015/07/07/4e7c0c140cb6477d8c130e38057d5651.jpg",
+                                   "size": 516424,
+                                   "swf": "",
+                                   "type": 0,
+                                   "pic": "",
+                                   "lpic": "",
+                                   "surl": "",
+                                   "lurl": ""
+                                   }]
+                    },
+                    "startTime": 1436251433207,
+                    "typeName": "记录",
+                    "typeCategroy": "-11",
+                    "content": "@测试 移动端_市场活动_新建销售线索_活动记录_记录_文件",
+                    "date": 1436251433209,
+                    "item": 1248092,
+                    "systemId": "607",
+                    "comments": 0,
+                    "id": 3301386,
+                    "eid": 1248092,
+                    "eName": "移动端_市场活动_新建销售线索",
+                    "eSystem": 522
+                    }, {
+                    "user": {
+                    "uid": 329692,
+                    "name": "张彬",
+                    "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                    },
+                    "group": {
+                    "gid": 5723758,
+                    "name": "移动端_市场活动_新建销售线索",
+                    "type": 12,
+                    "permission": 1
+                    },
+                    "from": {
+                    "id": 1248092,
+                    "name": "移动端_市场活动_新建销售线索",
+                    "belongId": 11,
+                    "belongName": "销售线索"
+                    },
+                    "file": {
+                    "fid": 453342,
+                    "uid": 329692,
+                    "uname": "张彬",
+                    "name": "欢迎扫描.jpg",
+                    "url": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/e8ac8f25b5af4b5c92a2f8ea07d21dfd.jpg",
+                    "swf": "",
+                    "type": 1,
+                    "pic": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/s_e8ac8f25b5af4b5c92a2f8ea07d21dfd.jpg",
+                    "size": 516424,
+                    "lpic": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/e8ac8f25b5af4b5c92a2f8ea07d21dfd.jpg",
+                    "descr": "",
+                    "created": 1436251376822,
+                    "imageFiles": [{
+                                   "name": "欢迎扫描.jpg",
+                                   "url": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/e8ac8f25b5af4b5c92a2f8ea07d21dfd.jpg",
+                                   "size": 516424,
+                                   "swf": "",
+                                   "type": 1,
+                                   "pic": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/s_e8ac8f25b5af4b5c92a2f8ea07d21dfd.jpg",
+                                   "lpic": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/l_e8ac8f25b5af4b5c92a2f8ea07d21dfd.jpg",
+                                   "surl": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/s_e8ac8f25b5af4b5c92a2f8ea07d21dfd.jpg",
+                                   "lurl": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/l_e8ac8f25b5af4b5c92a2f8ea07d21dfd.jpg"
+                                   }]
+                    },
+                    "startTime": 1436251376776,
+                    "typeName": "电话",
+                    "typeCategroy": 13,
+                    "content": "移动端_市场活动_新建销售线索_活动记录_电话_图片",
+                    "date": 1436251376796,
+                    "item": 1248092,
+                    "systemId": "607",
+                    "comments": 0,
+                    "id": 3301351,
+                    "eid": 1248092,
+                    "eName": "移动端_市场活动_新建销售线索",
+                    "eSystem": 522
+                    }]
+    }
+}

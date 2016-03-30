@@ -1,0 +1,23 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "products": [{
+                     "id": "286609",
+                     "opportunityProductId": "193982",
+                     "productName": "CC11产品",
+                     "price": "0.0",
+                     "unit": "",
+                     "currencyUnit": "元",
+                     "type": "1",
+                     "parentId": "286579",
+                     "url": "",
+                     "productCount": "1.0"
+                     }],
+        "hasMore": "false"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "accounts": [{
+                     "id": 1964026,
+                     "name": "移动端_客户",
+                     "pinyin": "yidongduan_kehu",
+                     "level": 1,
+                     "phone": "18796415505",
+                     "innerGroupId": 5723760,
+                     "highSeaStatus": 4,
+                     "expireTime": "",
+                     "canFollow": true,
+                     "isFollow": true,
+                     "partakeStatus": "已成交",
+                     "address": "南京市鼓楼区中山北路虹桥中心",
+                     "createdAt": 1436185478913,
+                     "delFlg": 0
+                     }],
+        "count": 1,
+        "partakeStatuses": [{
+                            "id": "1515492",
+                            "name": "111"
+                            }, {
+                            "id": "1332425",
+                            "name": "未邀请"
+                            }, {
+                            "id": "1332426",
+                            "name": "未参会"
+                            }, {
+                            "id": "1332427",
+                            "name": "已参会"
+                            }, {
+                            "id": "1332428",
+                            "name": "已成交"
+                            }, {
+                            "id": "1515491",
+                            "name": "业务员已发出邀请，未到场签到业务员已发出邀请，未到场签到业务员已发出邀请，未到场签到业务员已发出邀请，未到场签到业务员已发出邀请，未到场签到业务员已发出邀请，未到场签到业务员已发出邀请，未到场签到业务"
+                            }],
+        "filterCount": {
+            "all": "",
+            "mine": "",
+            "sub": ""
+        },
+        "isSuperUser": false,
+        "hasSubUser": false,
+        "levelNames": [{
+                       "value": 1,
+                       "name": "A(重点客户)",
+                       "count": ""
+                       }, {
+                       "value": 3,
+                       "name": "C(非优先客户)",
+                       "count": ""
+                       }, {
+                       "value": 2,
+                       "name": "B(普通客户)",
+                       "count": ""
+                       }],
+        "statusNames": [{
+                        "value": 1,
+                        "name": "自建",
+                        "specialFlg": 41
+                        }, {
+                        "value": 2,
+                        "name": "未领取",
+                        "specialFlg": 42
+                        }, {
+                        "value": 3,
+                        "name": "已领取",
+                        "specialFlg": 43
+                        }, {
+                        "value": 4,
+                        "name": "已签约",
+                        "specialFlg": 44
+                        }, {
+                        "value": 5,
+                        "name": "已废弃",
+                        "specialFlg": 45
+                        }, {
+                        "value": 6,
+                        "name": "已冻结",
+                        "specialFlg": 46
+                        }]
+    }
+}

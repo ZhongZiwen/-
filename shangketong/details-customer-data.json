@@ -1,0 +1,1087 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "newStart": "",
+        "hasMore": true,
+        "feeds": [{
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723808,
+                  "name": "移动端_客户_创建销售机会",
+                  "type": 3,
+                  "permission": 1
+                  },
+                  "recordNew": {
+                  "system": 518,
+                  "belongId": "",
+                  "item": 1540358,
+                  "itemName": "移动端_客户_联系人",
+                  "startTime": 1437358090697,
+                  "typeName": "完成任务",
+                  "typeCategroy": "-10",
+                  "taskId": 663175,
+                  "taskDescription": "",
+                  "taskCreatedBy": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "taskCreatedAt": 1436239855345,
+                  "taskMembers": [],
+                  "fileCount": 0
+                  },
+                  "content": "移动端_客户_联系人_给自己安排任务",
+                  "type": 0,
+                  "date": 1437358091190,
+                  "system": 607,
+                  "item": 3503476,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6506130,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 344871,
+                  "belongId": 3,
+                  "belongName": "销售机会",
+                  "name": "移动端_客户_创建销售机会"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329701,
+                  "name": "贺亮",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329701/s_e30bb4bf66fa4d96b0ece32033cd983a.jpg"
+                  },
+                  "group": {
+                  "gid": 5723760,
+                  "name": "移动端_客户",
+                  "type": 2,
+                  "permission": 1
+                  },
+                  "stream": {
+                  "action": 1
+                  },
+                  "content": "我",
+                  "type": 1,
+                  "date": 1437205900675,
+                  "system": 1017,
+                  "item": 126743,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6481847,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 1964026,
+                  "belongId": 1,
+                  "belongName": "客户",
+                  "name": "移动端_客户"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723760,
+                  "name": "移动端_客户",
+                  "type": 2,
+                  "permission": 1
+                  },
+                  "stream": {
+                  "to": 329696,
+                  "name": "姜军",
+                  "action": 4
+                  },
+                  "content": "移动端_客户_创建销售机会",
+                  "type": 1,
+                  "date": 1437113063911,
+                  "system": 1004,
+                  "item": 5723808,
+                  "object": 344871,
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6437285,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 1964026,
+                  "belongId": 1,
+                  "belongName": "客户",
+                  "name": "移动端_客户"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723808,
+                  "name": "移动端_客户_创建销售机会",
+                  "type": 3,
+                  "permission": 1
+                  },
+                  "stream": {
+                  "to": 329696,
+                  "name": "姜军",
+                  "action": 4
+                  },
+                  "content": "移动端_客户_创建销售机会",
+                  "type": 1,
+                  "date": 1437113063883,
+                  "system": 1004,
+                  "item": 5723808,
+                  "object": 344871,
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6437284,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 344871,
+                  "belongId": 3,
+                  "belongName": "销售机会",
+                  "name": "移动端_客户_创建销售机会"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723760,
+                  "name": "移动端_客户",
+                  "type": 2,
+                  "permission": 1
+                  },
+                  "recordNew": {
+                  "system": 510,
+                  "belongId": "",
+                  "item": 1964026,
+                  "itemName": "",
+                  "startTime": 1437024771629,
+                  "typeName": "记录",
+                  "typeCategroy": "-11"
+                  },
+                  "content": "32323",
+                  "type": 0,
+                  "date": 1437024771753,
+                  "system": 607,
+                  "item": 3450020,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 1,
+                  "id": 6399230,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 1964026,
+                  "belongId": 1,
+                  "belongName": "客户",
+                  "name": "移动端_客户"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329694,
+                  "name": "马超",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                  },
+                  "group": {
+                  "gid": 5723808,
+                  "name": "移动端_客户_创建销售机会",
+                  "type": 3,
+                  "permission": 1
+                  },
+                  "recordNew": {
+                  "system": 518,
+                  "belongId": "",
+                  "item": 1540358,
+                  "itemName": "移动端_客户_联系人",
+                  "startTime": 1436787766939,
+                  "typeName": "完成任务",
+                  "typeCategroy": "-10",
+                  "taskId": 663177,
+                  "taskDescription": "212",
+                  "taskCreatedBy": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "taskCreatedAt": 1436239930160,
+                  "taskMembers": [],
+                  "fileCount": 0
+                  },
+                  "content": "移动端_客户_联系人_为他人分配任务21",
+                  "type": 0,
+                  "date": 1436787767274,
+                  "system": 607,
+                  "item": 3402632,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6311506,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 344871,
+                  "belongId": 3,
+                  "belongName": "销售机会",
+                  "name": "移动端_客户_创建销售机会"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723760,
+                  "name": "移动端_客户",
+                  "type": 2,
+                  "permission": 1
+                  },
+                  "recordNew": {
+                  "system": 510,
+                  "belongId": "",
+                  "item": 1964026,
+                  "itemName": "",
+                  "startTime": 1436751698446,
+                  "typeName": "短信",
+                  "typeCategroy": "-12"
+                  },
+                  "content": "你民警",
+                  "type": 0,
+                  "date": 1436751698533,
+                  "system": 607,
+                  "item": 3386513,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 3,
+                  "id": 6281451,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 1964026,
+                  "belongId": 1,
+                  "belongName": "客户",
+                  "name": "移动端_客户"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723760,
+                  "name": "移动端_客户",
+                  "type": 2,
+                  "permission": 1
+                  },
+                  "recordNew": {
+                  "system": 510,
+                  "belongId": "",
+                  "item": 1964026,
+                  "itemName": "",
+                  "startTime": 1436419797051,
+                  "typeName": "完成任务",
+                  "typeCategroy": "-10",
+                  "taskId": 662790,
+                  "taskDescription": "cdcccdscfefdffdsfdsffdsfdsf",
+                  "taskCreatedBy": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "taskCreatedAt": 1436186124597,
+                  "taskMembers": [{
+                                  "uid": 329696,
+                                  "name": "姜军",
+                                  "icon": "https://rs.ingageapp.com/upload/i/151745/329696/s_86a6a0e7377643f5aaa08932adbc3fb3.jpg"
+                                  }, {
+                                  "uid": 329694,
+                                  "name": "马超",
+                                  "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                                  }, {
+                                  "uid": 329693,
+                                  "name": "房单",
+                                  "icon": "https://rs.ingageapp.com/upload/i/151745/329693/s_81cf2efe2c9d4ff48ce1caa788e97394.jpg"
+                                  }],
+                  "fileCount": 3
+                  },
+                  "content": "移动端_客户_给自己安排任务",
+                  "type": 0,
+                  "date": 1436419797279,
+                  "system": 607,
+                  "item": 3336894,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 1,
+                  "id": 6179909,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 1964026,
+                  "belongId": 1,
+                  "belongName": "客户",
+                  "name": "移动端_客户"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723760,
+                  "name": "移动端_客户",
+                  "type": 2,
+                  "permission": 1
+                  },
+                  "stream": {
+                  "action": 12
+                  },
+                  "content": "移动端_客户_给自己安排任务",
+                  "type": 1,
+                  "date": 1436419621364,
+                  "system": 1012,
+                  "item": 662790,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6179817,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 1964026,
+                  "belongId": 1,
+                  "belongName": "客户",
+                  "name": "移动端_客户"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723760,
+                  "name": "移动端_客户",
+                  "type": 2,
+                  "permission": 1
+                  },
+                  "recordNew": {
+                  "system": 510,
+                  "belongId": "",
+                  "item": 1964026,
+                  "itemName": "",
+                  "startTime": 1436419616789,
+                  "typeName": "完成任务",
+                  "typeCategroy": "-10",
+                  "taskId": 662790,
+                  "taskDescription": "cdcccdscfefdffdsfdsffdsfdsf",
+                  "taskCreatedBy": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "taskCreatedAt": 1436186124597,
+                  "taskMembers": [{
+                                  "uid": 329696,
+                                  "name": "姜军",
+                                  "icon": "https://rs.ingageapp.com/upload/i/151745/329696/s_86a6a0e7377643f5aaa08932adbc3fb3.jpg"
+                                  }, {
+                                  "uid": 329694,
+                                  "name": "马超",
+                                  "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                                  }, {
+                                  "uid": 329693,
+                                  "name": "房单",
+                                  "icon": "https://rs.ingageapp.com/upload/i/151745/329693/s_81cf2efe2c9d4ff48ce1caa788e97394.jpg"
+                                  }],
+                  "fileCount": 3
+                  },
+                  "content": "移动端_客户_给自己安排任务",
+                  "type": 0,
+                  "date": 1436419617056,
+                  "system": 607,
+                  "item": 3336837,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 1,
+                  "id": 6179813,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 1964026,
+                  "belongId": 1,
+                  "belongName": "客户",
+                  "name": "移动端_客户"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723760,
+                  "name": "移动端_客户",
+                  "type": 2,
+                  "permission": 1
+                  },
+                  "stream": {
+                  "action": 12
+                  },
+                  "content": "移动端_客户_给自己安排任务",
+                  "type": 1,
+                  "date": 1436257490912,
+                  "system": 1012,
+                  "item": 662790,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6121445,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 1964026,
+                  "belongId": 1,
+                  "belongName": "客户",
+                  "name": "移动端_客户"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723760,
+                  "name": "移动端_客户",
+                  "type": 2,
+                  "permission": 1
+                  },
+                  "recordNew": {
+                  "system": 510,
+                  "belongId": "",
+                  "item": 1964026,
+                  "itemName": "",
+                  "startTime": 1436257487895,
+                  "typeName": "完成任务",
+                  "typeCategroy": "-10",
+                  "taskId": 662790,
+                  "taskDescription": "cdcccdscfefdffdsfdsffdsfdsf",
+                  "taskCreatedBy": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "taskCreatedAt": 1436186124597,
+                  "taskMembers": [{
+                                  "uid": 329696,
+                                  "name": "姜军",
+                                  "icon": "https://rs.ingageapp.com/upload/i/151745/329696/s_86a6a0e7377643f5aaa08932adbc3fb3.jpg"
+                                  }, {
+                                  "uid": 329694,
+                                  "name": "马超",
+                                  "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                                  }, {
+                                  "uid": 329693,
+                                  "name": "房单",
+                                  "icon": "https://rs.ingageapp.com/upload/i/151745/329693/s_81cf2efe2c9d4ff48ce1caa788e97394.jpg"
+                                  }],
+                  "fileCount": 0
+                  },
+                  "content": "移动端_客户_给自己安排任务",
+                  "type": 0,
+                  "date": 1436257488178,
+                  "system": 607,
+                  "item": 3305377,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 1,
+                  "id": 6121442,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 1964026,
+                  "belongId": 1,
+                  "belongName": "客户",
+                  "name": "移动端_客户"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723760,
+                  "name": "移动端_客户",
+                  "type": 2,
+                  "permission": 1
+                  },
+                  "stream": {
+                  "action": 1,
+                  "acttach": "，该客户的状态随之变为 已签约，将不再被回收"
+                  },
+                  "content": "移动端_市场活动_合同",
+                  "type": 1,
+                  "date": 1436250692849,
+                  "system": 1016,
+                  "item": 95682,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6113434,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 1964026,
+                  "belongId": 1,
+                  "belongName": "客户",
+                  "name": "移动端_客户"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723808,
+                  "name": "移动端_客户_创建销售机会",
+                  "type": 3,
+                  "permission": 1
+                  },
+                  "stream": {
+                  "action": 11,
+                  "acttach": "销售阶段 变为 谈判审核"
+                  },
+                  "content": "移动端_客户_创建销售机会",
+                  "type": 1,
+                  "date": 1436249973801,
+                  "system": 1004,
+                  "item": 5723808,
+                  "object": 344871,
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6112437,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 344871,
+                  "belongId": 3,
+                  "belongName": "销售机会",
+                  "name": "移动端_客户_创建销售机会"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723789,
+                  "name": "移动端_客户_联系人",
+                  "type": 13,
+                  "permission": 1
+                  },
+                  "stream": {
+                  "action": 6
+                  },
+                  "content": "胡阳",
+                  "type": 1,
+                  "date": 1436249936643,
+                  "system": 1019,
+                  "item": 329700,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6112359,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 1540358,
+                  "belongId": 2,
+                  "belongName": "联系人",
+                  "name": "移动端_客户_联系人"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723789,
+                  "name": "移动端_客户_联系人",
+                  "type": 13,
+                  "permission": 1
+                  },
+                  "stream": {
+                  "action": 6
+                  },
+                  "content": "姜军",
+                  "type": 1,
+                  "date": 1436249933563,
+                  "system": 1011,
+                  "item": 329696,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6112355,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 1540358,
+                  "belongId": 2,
+                  "belongName": "联系人",
+                  "name": "移动端_客户_联系人"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723808,
+                  "name": "移动端_客户_创建销售机会",
+                  "type": 3,
+                  "permission": 1
+                  },
+                  "recordNew": {
+                  "system": 518,
+                  "belongId": "",
+                  "item": 1540358,
+                  "itemName": "移动端_客户_联系人",
+                  "startTime": 1436249762341,
+                  "typeName": "完成任务",
+                  "typeCategroy": "-10",
+                  "taskId": 663175,
+                  "taskDescription": "",
+                  "taskCreatedBy": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "taskCreatedAt": 1436239855345,
+                  "taskMembers": [{
+                                  "uid": 329694,
+                                  "name": "马超",
+                                  "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                                  }],
+                  "fileCount": 0
+                  },
+                  "content": "移动端_客户_联系人_给自己安排任务",
+                  "type": 0,
+                  "date": 1436249762476,
+                  "system": 607,
+                  "item": 3300357,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6112211,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 344871,
+                  "belongId": 3,
+                  "belongName": "销售机会",
+                  "name": "移动端_客户_创建销售机会"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723808,
+                  "name": "移动端_客户_创建销售机会",
+                  "type": 3,
+                  "permission": 1
+                  },
+                  "recordNew": {
+                  "system": 518,
+                  "belongId": "",
+                  "item": 1540358,
+                  "itemName": "移动端_客户_联系人",
+                  "startTime": 1436249759632,
+                  "typeName": "完成任务",
+                  "typeCategroy": "-10",
+                  "taskId": 663175,
+                  "taskDescription": "",
+                  "taskCreatedBy": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "taskCreatedAt": 1436239855345,
+                  "taskMembers": [{
+                                  "uid": 329694,
+                                  "name": "马超",
+                                  "icon": "https://rs.ingageapp.com/upload/i/151745/329694/s_a79d7be84734499bb5a064e269d0bc28.jpg"
+                                  }],
+                  "fileCount": 0
+                  },
+                  "content": "移动端_客户_联系人_给自己安排任务",
+                  "type": 0,
+                  "date": 1436249759933,
+                  "system": 607,
+                  "item": 3300355,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6112209,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 344871,
+                  "belongId": 3,
+                  "belongName": "销售机会",
+                  "name": "移动端_客户_创建销售机会"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723808,
+                  "name": "移动端_客户_创建销售机会",
+                  "type": 3,
+                  "permission": 1
+                  },
+                  "recordNew": {
+                  "system": 518,
+                  "belongId": "",
+                  "item": 1540358,
+                  "itemName": "移动端_客户_联系人",
+                  "startTime": 1436249560928,
+                  "typeName": "拜访签到",
+                  "typeCategroy": 11,
+                  "fname": "欢迎扫描.jpg",
+                  "ftype": 1,
+                  "furl": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/f54de6dfaca9426a85c464499911e32d.jpg",
+                  "fpic": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/l_f54de6dfaca9426a85c464499911e32d.jpg",
+                  "flpic": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/l_f54de6dfaca9426a85c464499911e32d.jpg",
+                  "fsize": 516424,
+                  "fswf": "",
+                  "fdescr": "",
+                  "imageFiles": [{
+                                 "name": "欢迎扫描.jpg",
+                                 "url": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/f54de6dfaca9426a85c464499911e32d.jpg",
+                                 "size": 516424,
+                                 "swf": "",
+                                 "type": 1,
+                                 "pic": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/s_f54de6dfaca9426a85c464499911e32d.jpg",
+                                 "lpic": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/l_f54de6dfaca9426a85c464499911e32d.jpg",
+                                 "surl": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/s_f54de6dfaca9426a85c464499911e32d.jpg",
+                                 "lurl": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/l_f54de6dfaca9426a85c464499911e32d.jpg"
+                                 }]
+                  },
+                  "content": "移动端_客户_联系人_主页_活动记录_拜访签到_图片",
+                  "type": 0,
+                  "date": 1436249561147,
+                  "system": 607,
+                  "item": 3300235,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6112025,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 344871,
+                  "belongId": 3,
+                  "belongName": "销售机会",
+                  "name": "移动端_客户_创建销售机会"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723760,
+                  "name": "移动端_客户",
+                  "type": 2,
+                  "permission": 1
+                  },
+                  "stream": {
+                  "action": 5
+                  },
+                  "content": "sryr",
+                  "type": 1,
+                  "date": 1436240182603,
+                  "system": 1011,
+                  "item": 329695,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6107673,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 1964026,
+                  "belongId": 1,
+                  "belongName": "客户",
+                  "name": "移动端_客户"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723760,
+                  "name": "移动端_客户",
+                  "type": 2,
+                  "permission": 1
+                  },
+                  "stream": {
+                  "action": 5
+                  },
+                  "content": "马超",
+                  "type": 1,
+                  "date": 1436240182355,
+                  "system": 1011,
+                  "item": 329694,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6107672,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 1964026,
+                  "belongId": 1,
+                  "belongName": "客户",
+                  "name": "移动端_客户"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723760,
+                  "name": "移动端_客户",
+                  "type": 2,
+                  "permission": 1
+                  },
+                  "stream": {
+                  "action": 5
+                  },
+                  "content": "姜军",
+                  "type": 1,
+                  "date": 1436240182270,
+                  "system": 1011,
+                  "item": 329696,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6107671,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 1964026,
+                  "belongId": 1,
+                  "belongName": "客户",
+                  "name": "移动端_客户"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723760,
+                  "name": "移动端_客户",
+                  "type": 2,
+                  "permission": 1
+                  },
+                  "stream": {
+                  "action": 5
+                  },
+                  "content": "房单",
+                  "type": 1,
+                  "date": 1436240182183,
+                  "system": 1011,
+                  "item": 329693,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6107670,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 1964026,
+                  "belongId": 1,
+                  "belongName": "客户",
+                  "name": "移动端_客户"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723760,
+                  "name": "移动端_客户",
+                  "type": 2,
+                  "permission": 1
+                  },
+                  "stream": {
+                  "action": 5
+                  },
+                  "content": "胡阳",
+                  "type": 1,
+                  "date": 1436240174308,
+                  "system": 1019,
+                  "item": 329700,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6107657,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 1964026,
+                  "belongId": 1,
+                  "belongName": "客户",
+                  "name": "移动端_客户"
+                  }
+                  }, {
+                  "user": {
+                  "uid": 329692,
+                  "name": "张彬",
+                  "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_9c59cba1f40c4fbcaeafa16afd81a563.jpg"
+                  },
+                  "group": {
+                  "gid": 5723789,
+                  "name": "移动端_客户_联系人",
+                  "type": 13,
+                  "permission": 1
+                  },
+                  "stream": {
+                  "action": 6
+                  },
+                  "content": "胡阳",
+                  "type": 1,
+                  "date": 1436239953682,
+                  "system": 1011,
+                  "item": 329700,
+                  "object": "",
+                  "feedUpCount": "0",
+                  "isFeedUp": "0",
+                  "feedForwardCount": "",
+                  "canForward": "0",
+                  "comments": 0,
+                  "id": 6107455,
+                  "isfav": false,
+                  "feedStamp": "",
+                  "from": {
+                  "id": 1540358,
+                  "belongId": 2,
+                  "belongName": "联系人",
+                  "name": "移动端_客户_联系人"
+                  }
+                  }]
+    }
+}

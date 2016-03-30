@@ -1,0 +1,205 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+
+#import "AppDelegate.h"
+#import "UIView+Common.h"
+#import "NSString+Common.h"
+#import "UIColor+expanded.h"
+#import "UIImage+ImageEffects.h"
+#import "UIImage+Common.h"
+#import "UITableView+Common.h"
+#import "UIButton+Common.h"
+#import "UIButton+Bootstrap.h"
+#import "CommonLoginEvent.h"
+#import "CommonConstant.h"
+#import "NSDictionary+safeObjectForKey.h"
+#import "NSObject+ObjectMap.h"
+#import "NSDate+Utils.h"
+#import "Net_APIManager.h"
+#import "NSObject+Common.h"
+#import "UIBarButtonItem+Common.h"
+
+#import <UIImageView+WebCache.h>
+#import <MBProgressHUD.h>
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <ReactiveCocoa/RACEXTScope.h>
+
+#import "AFNHttp.h"
+#import "FMDBManagement.h"
+
+#import "CommonFuntion.h"
+#import "CommonUtility.h"
+#import "DateUtility.h"
+#import "AppsBaseViewController.h"
+#import "CellDataInfo.h"
+#import "AppsStrings.h"
+#import "InterfacesAction.h"
+#import "FunctionCodes.h"
+
+#import "BaseViewController.h"
+
+#endif
+
+#define kShowHUD(_s_, ...) MBProgressHUD *hud = [MBProgressHUD showHUDAddedTo:kKeyWindow animated:YES];hud.mode = MBProgressHUDModeText;hud.labelText = [NSString stringWithFormat:(_s_), ##__VA_ARGS__];hud.margin = 10.f;hud.yOffset = (kScreen_Height/2)-40;hud.removeFromSuperViewOnHide = YES;[hud hide:YES afterDelay:2.0];
+
+#define kShowHUD2(_s_, ...) MBProgressHUD *hud = [MBProgressHUD showHUDAddedTo:kKeyWindow animated:YES];hud.mode = MBProgressHUDModeText;hud.labelText = [NSString stringWithFormat:(_s_), ##__VA_ARGS__];hud.margin = 10.f;hud.yOffset = (kScreen_Height/2)-40;hud.removeFromSuperViewOnHide = YES;[hud hide:YES afterDelay:1.0];
+
+// 常用变量
+#define DebugLog(s, ...) NSLog(@"%s(%d): %@", __FUNCTION__, __LINE__, [NSString stringWithFormat:(s), ##__VA_ARGS__])
+#define kTipAlert(_S_, ...)     [[[UIAlertView alloc] initWithTitle:@"提示" message:[NSString stringWithFormat:(_S_), ##__VA_ARGS__] delegate:nil cancelButtonTitle:@"知道了" otherButtonTitles:nil] show]
+
+#define kScaleFrom_iPhone5_Desgin(_X_) (_X_ * (kScreen_Width/320))
+
+#define kNavigationTintColor [UIColor colorWithRed:(CGFloat)87/255.0 green:(CGFloat)162/255.0 blue:(CGFloat)231/255.0 alpha:1.0]
+
+#define kBackItem [[UIBarButtonItem alloc] initWithTitle:@"" style:UIBarButtonItemStyleBordered target:nil action:nil]
+
+#define UIColorFromRGB(rgbValue) [UIColor colorWithRed:((float)((rgbValue & 0xFF0000) >> 16))/255.0 green:((float)((rgbValue & 0xFF00) >> 8))/255.0 blue:((float)(rgbValue & 0xFF))/255.0 alpha:1.0]
+
+#define kTitleColor [UIColor colorWithRed:(CGFloat)70/255.0 green:(CGFloat)154/255.0 blue:(CGFloat)234/255.0 alpha:1.0]
+#define kKeyWindow [UIApplication sharedApplication].keyWindow
+#define kScreen_Bounds [UIScreen mainScreen].bounds
+#define kScreen_Height [UIScreen mainScreen].bounds.size.height
+#define kScreen_Width [UIScreen mainScreen].bounds.size.width
+#define kCornerRadius 4.0
+
+#define kCellLeftWidth 15.0
+#define kCellTitleFont [UIFont systemFontOfSize:14]
+#define kCellTitleColor [UIColor blackColor]
+#define kBackButtonFontSize 16
+#define kNavTitleFontSize 19
+
+#define kDevice_Is_iPhone4 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(640, 960), [[UIScreen mainScreen] currentMode].size) : NO)
+#define kDevice_Is_iPhone5 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(640, 1136), [[UIScreen mainScreen] currentMode].size) : NO)
+#define kDevice_Is_iPhone6 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(750, 1334), [[UIScreen mainScreen] currentMode].size) : NO)
+#define kDevice_Is_iPhone6Plus ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(1242, 2208), [[UIScreen mainScreen] currentMode].size) : NO)
+
+#define kView_BG_Color [UIColor colorWithRed:248.0f/255 green:248.0f/255 blue:248.0f/255 alpha:1.0f]
+#define TABLEVIEW_BG_COLOR [UIColor colorWithRed:248.0f/255 green:248.0f/255 blue:248.0f/255 alpha:1.0f]
+
+// 文本框最大字符宽度
+#define MAX_LIMIT_TEXTFIELD  60
+// 文本域最大字符宽度
+#define MAX_LIMIT_TEXTVIEW   300
+
+///特殊文本框
+#define MAX_LIMIT_TEXTFIELD_SPE  30
+
+///列表分割线颜色
+#define COLOR_TABLEVIEW_SEPARATOR_LINE [UIColor colorWithRed:229.0f/255.0f green:229.0f/255.0f blue:229.0f/255.0f alpha:1]
+
+//链接颜色
+#define kLinkAttributes     @{(__bridge NSString *)kCTUnderlineStyleAttributeName : [NSNumber numberWithBool:NO],(NSString *)kCTForegroundColorAttributeName : (__bridge id)[UIColor colorWithHexString:@"0x10aeff"].CGColor}
+#define kLinkAttributesActive       @{(NSString *)kCTUnderlineStyleAttributeName : [NSNumber numberWithBool:NO],(NSString *)kCTForegroundColorAttributeName : (__bridge id)[[UIColor colorWithHexString:@"0x10a1ff"] CGColor]}
+
+///浅蓝色
+//#define LIGHT_BLUE_COLOR [UIColor colorWithRed:89.0f/255 green:174.0f/255 blue:231.0f/255 alpha:1.0f]
+
+///session不可用状态码
+#define STATUS_SESSION_UNAVAILABLE 9
+
+///登陆返回statu
+///0 成功
+#define STATUS_LOGIN_RESPONSE_0 0
+///1 用户名或密码错误
+#define STATUS_LOGIN_RESPONSE_1 1
+///2  公司账户已到期
+#define STATUS_LOGIN_RESPONSE_2 2
+///3用户账号被禁用
+#define STATUS_LOGIN_RESPONSE_3 3
+///4 用户已离职
+#define STATUS_LOGIN_RESPONSE_4 4
+///5 用户无权限
+#define STATUS_LOGIN_RESPONSE_5 5
+
+// 设置启动和登录
+#define kFirstLaunchStatus @"launch_status"
+#define kBlindingStatus    @"blinding_status"
+#define kLoginStatus       @"login_status"
+
+// AppDelegate
+#define KAppDelegateAccessor ((AppDelegate *)[[UIApplication sharedApplication] delegate])
+
+//是否为iphone5s以下
+#define DEVICE_IS_IPHONE5 (kScreen_Width == 320)
+// 是否为iPhone6
+#define DEVICE_IS_IPHONE6 (kScreen_Width == 375)
+// 是否为iPhone6 plus
+#define DEVICE_IS_IPHONE6_PLUS (kScreen_Width == 414)
+
+
+#pragma mark - 接口公共参数
+///版本号
+#define SKT_VERSION_NO [[[NSBundle mainBundle] infoDictionary] objectForKey:@"CFBundleShortVersionString"]
+///系统版本号
+#define OS_VERSION_NO [[UIDevice currentDevice] systemVersion]
+/////手机型号
+#define IPHONE_MODEL [[UIDevice currentDevice] model]
+
+#define COMMON_PARAMS  [NSDictionary dictionaryWithObjectsAndKeys:SKT_VERSION_NO,@"appvs",IPHONE_MODEL,@"phonemodel",OS_VERSION_NO,@"sdkvs", @"iOS" , @"systemType", nil]
+
+///请求返回error时提示语
+#define NET_ERROR @"请检查您的网络配置"
+
+
+// 设置启动和登录
+#define kFirstLaunchStatus @"launch_status"
+#define kBlindingStatus    @"blinding_status"
+#define kLoginStatus       @"login_status"
+#define kAddressBookServerTime @"serverTime"
+
+
+//---------------联络中心----------------//
+#define DATE_FORMAT_HHmm @"HH:mm"
+#define DATE_PICKERVIEW @"datepicker"
+#define PICKERVIEW @"pickerview"
+
+#define isIOS9 ([[[UIDevice currentDevice] systemVersion] floatValue] >= 9.0 ? YES : NO)
+#define DEVICE_IPHONE_WIDTH_320 ([[UIScreen mainScreen] bounds].size.width == 320)
+
+#define COLOR_LIGHT_BLUE [UIColor colorWithRed:(CGFloat)28/255.0 green:(CGFloat)134/255.0 blue:(CGFloat)251/255.0 alpha:1.0]
+
+#define COLOR_BG [UIColor colorWithRed:(CGFloat)239/255.0 green:(CGFloat)239/255.0 blue:(CGFloat)244/255.0 alpha:1.0]
+
+
+#pragma mark - 左滑菜单按钮背景色
+#define LLC_COLOR_CELL_RIGHT_BTN_BG [UIColor colorWithRed:121.0f/255 green:182.0f/255 blue:143.0f/255 alpha:1.0f]
+
+#define LLC_COLOR_SEARCHBAR_BG [UIColor colorWithRed:240.0f/255 green:240.0f/255 blue:240.0f/255 alpha:1.0f]
+
+
+#define COLOR_PLACEHOLDER  [UIColor colorWithRed:215.0f/255 green:215.0f/255 blue:219.0f/255 alpha:1.0f]
+
+#define LLC_NET_ERROR @"暂无网络,无法获取数据!"
+
+///刷新导航列表
+#define LLC_NOTIFICATON_NAVIGATION_LIST @"notifyNavigationListData"
+#define LLC_NOTIFICATON_SIT_LIST @"notifySitListData"
+
+//---------------联络中心----------------//
+
+
+// 修改按钮 背景颜色
+//标签 绿色
+#define COMMEN_LABEL_COROL [UIColor colorWithHexString:@"09bb07"]
+#define LIGHT_BLUE_COLOR [UIColor colorWithHexString:@"09bb07"]
+#define FILTER_SELECTED_BG [UIColor colorWithHexString:@"f5f5f5"]
+//背景色
+#define COMMEN_VIEW_BACKGROUNDCOLOR [UIColor colorWithHexString:@"f8f8f8"]
+//搜索框
+#define COMM_SEARCHBAR_BACKGROUNDCOLOR [UIColor colorWithHexString:@"efeff4"]
+//搜索 取消按钮颜色
+#define COMMEN_SEARCHCANCEL_COLOR [UIColor colorWithHexString:@"333333"]

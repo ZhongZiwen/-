@@ -1,0 +1,41 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "chart": {
+            "id": "3342917",
+            "name": "近期重点商机",
+            "type": "1002",
+            "belongId": "3",
+            "periodType": "week",
+            "entityTypeIds": "",
+            "data": "{\"data\":[{\"name\":{\"oppName\":\"rtyuiiytrtyui\",\"oppOwner\":\"张彬\",\"client\":\"肯德基\",\"oppAmount\":\"2000000000\",\"rate\":\"60\",\"closeDate\":\"2015-07-16\"},\"id\":338747,\"marker\":{\"radius\":\"22\",\"fillColor\":\"rgba(223, 83, 83, .5)\",\"states\":{\"hover\":{\"radius\":24,\"fillColor\":\"rgba(223, 83, 83, .5)\",\"lineColor\":\"#000000\"},\"select\":{\"radius\":24,\"fillColor\":\"rgba(223, 83, 83, .5)\"}}},\"x\":1436976000000,\"y\":60},{\"name\":{\"oppName\":\"4567890954\",\"oppOwner\":\"张彬\",\"client\":\"华宇（安徽）工艺品有限公司\",\"oppAmount\":\"2000000\",\"rate\":\"60\",\"closeDate\":\"2015-07-02\"},\"id\":338711,\"marker\":{\"radius\":\"2\",\"fillColor\":\"rgba(223, 83, 83, .5)\",\"states\":{\"hover\":{\"radius\":4,\"fillColor\":\"rgba(223, 83, 83, .5)\",\"lineColor\":\"#000000\"},\"select\":{\"radius\":4,\"fillColor\":\"rgba(223, 83, 83, .5)\"}}},\"x\":1435766400000,\"y\":60},{\"name\":{\"oppName\":\"2345672356\",\"oppOwner\":\"张彬\",\"client\":\"龙腾公司\",\"oppAmount\":\"2000000\",\"rate\":\"50\",\"closeDate\":\"2015-07-08\"},\"id\":338710,\"marker\":{\"radius\":\"2\",\"fillColor\":\"rgba(223, 83, 83, .5)\",\"states\":{\"hover\":{\"radius\":4,\"fillColor\":\"rgba(223, 83, 83, .5)\",\"lineColor\":\"#000000\"},\"select\":{\"radius\":4,\"fillColor\":\"rgba(223, 83, 83, .5)\"}}},\"x\":1436284800000,\"y\":50},{\"name\":{\"oppName\":\"ertyuio56789\",\"oppOwner\":\"张彬\",\"client\":\"蓝翔13213\",\"oppAmount\":\"20000000\",\"rate\":\"80\",\"closeDate\":\"2015-07-29\"},\"id\":338698,\"marker\":{\"radius\":\"2\",\"fillColor\":\"rgba(250, 202, 87, .5)\",\"states\":{\"hover\":{\"radius\":4,\"fillColor\":\"rgba(250, 202, 87, .5)\",\"lineColor\":\"#000000\"},\"select\":{\"radius\":4,\"fillColor\":\"rgba(250, 202, 87, .5)\"}}},\"x\":1438099200000,\"y\":80},{\"name\":{\"oppName\":\"qwertyuiertyui\",\"oppOwner\":\"张彬\",\"client\":\"肯德基\",\"oppAmount\":\"200000\",\"rate\":\"90\",\"closeDate\":\"2015-07-15\"},\"id\":338692,\"marker\":{\"radius\":\"2\",\"fillColor\":\"rgba(100, 255, 100, .5)\",\"states\":{\"hover\":{\"radius\":4,\"fillColor\":\"rgba(100, 255, 100, .5)\",\"lineColor\":\"#000000\"},\"select\":{\"radius\":4,\"fillColor\":\"rgba(100, 255, 100, .5)\"}}},\"x\":1436889600000,\"y\":90},{\"name\":{\"oppName\":\"ewrqwer\",\"oppOwner\":\"张彬\",\"client\":\"龙腾公司\",\"oppAmount\":\"20000000\",\"rate\":\"0\",\"closeDate\":\"2015-07-23\"},\"id\":338673,\"marker\":{\"radius\":\"2\",\"fillColor\":\"rgba(223, 83, 83, .5)\",\"states\":{\"hover\":{\"radius\":4,\"fillColor\":\"rgba(223, 83, 83, .5)\",\"lineColor\":\"#000000\"},\"select\":{\"radius\":4,\"fillColor\":\"rgba(223, 83, 83, .5)\"}}},\"x\":1437580800000,\"y\":0},{\"name\":{\"oppName\":\"1234567890\",\"oppOwner\":\"张彬\",\"client\":\"肯德基\",\"oppAmount\":\"80000000\",\"rate\":\"0\",\"closeDate\":\"2015-07-08\"},\"id\":338663,\"marker\":{\"radius\":\"2\",\"fillColor\":\"rgba(223, 83, 83, .5)\",\"states\":{\"hover\":{\"radius\":4,\"fillColor\":\"rgba(223, 83, 83, .5)\",\"lineColor\":\"#000000\"},\"select\":{\"radius\":4,\"fillColor\":\"rgba(223, 83, 83, .5)\"}}},\"x\":1436284800000,\"y\":0},{\"name\":{\"oppName\":\"12345\",\"oppOwner\":\"张彬\",\"client\":\"肯德基\",\"oppAmount\":\"100000\",\"rate\":\"0\",\"closeDate\":\"2015-07-23\"},\"id\":338652,\"marker\":{\"radius\":\"2\",\"fillColor\":\"rgba(223, 83, 83, .5)\",\"states\":{\"hover\":{\"radius\":4,\"fillColor\":\"rgba(223, 83, 83, .5)\",\"lineColor\":\"#000000\"},\"select\":{\"radius\":4,\"fillColor\":\"rgba(223, 83, 83, .5)\"}}},\"x\":1437580800000,\"y\":0},{\"name\":{\"oppName\":\"sdafsdfa\",\"oppOwner\":\"张彬\",\"client\":\"浦发银行\",\"oppAmount\":\"20000\",\"rate\":\"0\",\"closeDate\":\"2015-07-24\"},\"id\":338581,\"marker\":{\"radius\":\"2\",\"fillColor\":\"rgba(223, 83, 83, .5)\",\"states\":{\"hover\":{\"radius\":4,\"fillColor\":\"rgba(223, 83, 83, .5)\",\"lineColor\":\"#000000\"},\"select\":{\"radius\":4,\"fillColor\":\"rgba(223, 83, 83, .5)\"}}},\"x\":1437667200000,\"y\":0},{\"name\":{\"oppName\":\"44444\",\"oppOwner\":\"张彬\",\"client\":\"华宇（安徽）工艺品有限公司\",\"oppAmount\":\"10\",\"rate\":\"80\",\"closeDate\":\"2015-07-29\"},\"id\":338570,\"marker\":{\"radius\":\"2\",\"fillColor\":\"rgba(250, 202, 87, .5)\",\"states\":{\"hover\":{\"radius\":4,\"fillColor\":\"rgba(250, 202, 87, .5)\",\"lineColor\":\"#000000\"},\"select\":{\"radius\":4,\"fillColor\":\"rgba(250, 202, 87, .5)\"}}},\"x\":1438099200000,\"y\":80},{\"name\":{\"oppName\":\"333\",\"oppOwner\":\"张彬\",\"client\":\"深圳高新投\",\"oppAmount\":\"200000000\",\"rate\":\"60\",\"closeDate\":\"2015-07-16\"},\"id\":338569,\"marker\":{\"radius\":\"4\",\"fillColor\":\"rgba(223, 83, 83, .5)\",\"states\":{\"hover\":{\"radius\":6,\"fillColor\":\"rgba(223, 83, 83, .5)\",\"lineColor\":\"#000000\"},\"select\":{\"radius\":6,\"fillColor\":\"rgba(223, 83, 83, .5)\"}}},\"x\":1436976000000,\"y\":60},{\"name\":{\"oppName\":\"22222\",\"oppOwner\":\"张彬\",\"client\":\"龙腾公司\",\"oppAmount\":\"20000000\",\"rate\":\"30\",\"closeDate\":\"2015-07-23\"},\"id\":338567,\"marker\":{\"radius\":\"2\",\"fillColor\":\"rgba(223, 83, 83, .5)\",\"states\":{\"hover\":{\"radius\":4,\"fillColor\":\"rgba(223, 83, 83, .5)\",\"lineColor\":\"#000000\"},\"select\":{\"radius\":4,\"fillColor\":\"rgba(223, 83, 83, .5)\"}}},\"x\":1437580800000,\"y\":30}],\"minAmount\":10,\"maxAmount\":2.0E9,\"maxDate\":1440691199000,\"minDate\":1435766400000}"
+        },
+        "currencyUnit": "元",
+        "conditions": [{
+                       "des": "销售机会所有人等于张彬"
+                       }],
+        "users": {
+            "329692": {
+                "uid": "329692",
+                "name": "张彬",
+                "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+            }
+        },
+        "owners": [{
+                   "uid": "329692",
+                   "name": "张彬",
+                   "icon": "https://rs.ingageapp.com/upload/i/151745/329692/s_e822aae387324d5b8862245e8e7ecf4c.jpg"
+                   }],
+        "departs": {},
+        "dimensions": {},
+        "entityTypes": [{
+                        "id": "638264",
+                        "typeName": "默认业务类型"
+                        }]
+    }
+}

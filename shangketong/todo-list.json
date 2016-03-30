@@ -1,0 +1,890 @@
+{
+    "scode": "0",
+    "body": {
+        "taskMembers": [{
+                        "id": 678602,
+                        "name": "王真伪---------------------------",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1437458400000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329694,
+                        "name": "马超"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 678599,
+                        "name": "renwu",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1437458400000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329694,
+                        "name": "马超"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 678593,
+                        "name": "房芳芳",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1437458400000,
+                        "status": 3,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329694,
+                        "name": "马超"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 677168,
+                        "name": "tuichu _++++",
+                        "priority": "",
+                        "isMine": false,
+                        "date": 1437364800000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 323203,
+                        "name": "王威振"
+                        },
+                        "createdBy": {
+                        "uid": 323203,
+                        "name": "王威振"
+                        },
+                        "from": {
+                        "id": 1517804,
+                        "belongId": 1,
+                        "belongName": "客户",
+                        "name": "肯德基"
+                        }
+                        }, {
+                        "id": 677166,
+                        "name": "sdafsdfasdfasdfdsaf",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1437364800000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {
+                        "id": 1517804,
+                        "belongId": 1,
+                        "belongName": "客户",
+                        "name": "肯德基"
+                        }
+                        }, {
+                        "id": 677165,
+                        "name": "sadfsd sdfasd",
+                        "priority": "",
+                        "isMine": false,
+                        "date": 1437364800000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 323203,
+                        "name": "王威振"
+                        },
+                        "createdBy": {
+                        "uid": 323203,
+                        "name": "王威振"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 677159,
+                        "name": "sdfadsfs",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1437364800000,
+                        "status": 3,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 323203,
+                        "name": "王威振"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 675741,
+                        "name": "法规的法规法规",
+                        "priority": "",
+                        "isMine": false,
+                        "date": 1437210000000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 323203,
+                        "name": "王威振"
+                        },
+                        "createdBy": {
+                        "uid": 323203,
+                        "name": "王威振"
+                        },
+                        "from": {
+                        "id": 1595903,
+                        "belongId": 1,
+                        "belongName": "客户",
+                        "name": "日照钢铁控股集团有限公司"
+                        }
+                        }, {
+                        "id": 675647,
+                        "name": "发邮件给客户",
+                        "priority": "",
+                        "isMine": false,
+                        "date": 1437202800000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 323203,
+                        "name": "王威振"
+                        },
+                        "createdBy": {
+                        "uid": 323203,
+                        "name": "王威振"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 667551,
+                        "name": "000000000000001111111111",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1437105600000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329694,
+                        "name": "马超"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 672638,
+                        "name": "任务3",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436970600000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 672637,
+                        "name": "任务2",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436967000000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 672635,
+                        "name": "任务1",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436963400000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 672564,
+                        "name": "任务_左边三角",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436959800000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 672558,
+                        "name": "吃完，检测数据",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436958600000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 672525,
+                        "name": "测试数据",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436954400000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {
+                        "id": 287770,
+                        "belongId": 3,
+                        "belongName": "销售机会",
+                        "name": "有购买意向"
+                        }
+                        }, {
+                        "id": 671727,
+                        "name": "2015-7-15",
+                        "priority": 0,
+                        "isMine": true,
+                        "date": 1436932800000,
+                        "status": 3,
+                        "owner": {
+                        "uid": 329696,
+                        "name": "姜军"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 671723,
+                        "name": "Task",
+                        "priority": 0,
+                        "isMine": true,
+                        "date": 1436929200000,
+                        "status": 3,
+                        "owner": {
+                        "uid": 329696,
+                        "name": "姜军"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 663285,
+                        "name": "移动端_任务_被他人分配的任务",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436886000000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329694,
+                        "name": "马超"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 663343,
+                        "name": "移动端_市场活动_为他人分配任务",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436857200000,
+                        "status": 3,
+                        "owner": {
+                        "uid": 329693,
+                        "name": "房单"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {
+                        "id": 143260,
+                        "belongId": 6,
+                        "belongName": "市场活动",
+                        "name": "移动端_市场活动"
+                        }
+                        }, {
+                        "id": 663175,
+                        "name": "移动端_客户_联系人_给自己安排任务",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436846400000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {
+                        "id": 1540358,
+                        "belongId": 2,
+                        "belongName": "联系人",
+                        "name": "移动端_客户_联系人"
+                        }
+                        }, {
+                        "id": 663177,
+                        "name": "移动端_客户_联系人_为他人分配任务21",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436846400000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329694,
+                        "name": "马超"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {
+                        "id": 1540358,
+                        "belongId": 2,
+                        "belongName": "联系人",
+                        "name": "移动端_客户_联系人"
+                        }
+                        }, {
+                        "id": 663176,
+                        "name": "移动端_客户_联系人_为他人分配任务",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436846400000,
+                        "status": 3,
+                        "owner": {
+                        "uid": 329696,
+                        "name": "姜军"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {
+                        "id": 1540358,
+                        "belongId": 2,
+                        "belongName": "联系人",
+                        "name": "移动端_客户_联系人"
+                        }
+                        }, {
+                        "id": 670348,
+                        "name": "Jjujjhh",
+                        "priority": 0,
+                        "isMine": true,
+                        "date": 1436842800000,
+                        "status": 3,
+                        "owner": {
+                        "uid": 329696,
+                        "name": "姜军"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 663384,
+                        "name": "移动端_市场活动_新建销售线索_为他人分配任务",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436803200000,
+                        "status": 4,
+                        "owner": {
+                        "uid": 329696,
+                        "name": "姜军"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {
+                        "id": 1248092,
+                        "belongId": 11,
+                        "belongName": "销售线索",
+                        "name": "移动端_市场活动_新建销售线索"
+                        }
+                        }, {
+                        "id": 667802,
+                        "name": "2222222222222222222222",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436601600000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 667748,
+                        "name": "1111111111111111111111111",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436601600000,
+                        "status": 3,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329694,
+                        "name": "马超"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 665720,
+                        "name": "给自己创建任务",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436428800000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 664550,
+                        "name": "fwefewfwfewfewfwfwfwfwff",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436342400000,
+                        "status": 3,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329694,
+                        "name": "马超"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 657884,
+                        "name": "打电话给客户",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436335200000,
+                        "status": 3,
+                        "owner": {
+                        "uid": 329696,
+                        "name": "姜军"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {
+                        "id": 1572144,
+                        "belongId": 1,
+                        "belongName": "客户",
+                        "name": "李密"
+                        }
+                        }, {
+                        "id": 664107,
+                        "name": "cs分配任务",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436324400000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329694,
+                        "name": "马超"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 663840,
+                        "name": "我的测试任务，接受吧",
+                        "priority": "",
+                        "isMine": false,
+                        "date": 1436274000000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329694,
+                        "name": "马超"
+                        },
+                        "createdBy": {
+                        "uid": 329694,
+                        "name": "马超"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 662792,
+                        "name": "移动端_客户_为他人分配任务",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436187600000,
+                        "status": 3,
+                        "owner": {
+                        "uid": 329696,
+                        "name": "姜军"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {
+                        "id": 1964026,
+                        "belongId": 1,
+                        "belongName": "客户",
+                        "name": "移动端_客户"
+                        }
+                        }, {
+                        "id": 661742,
+                        "name": "sssss",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1436148000000,
+                        "status": 3,
+                        "owner": {
+                        "uid": 329695,
+                        "name": "sryr"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 658887,
+                        "name": "打电话给客户",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1435892400000,
+                        "status": 3,
+                        "owner": {
+                        "uid": 329695,
+                        "name": "sryr"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 653550,
+                        "name": "打电话给客户",
+                        "priority": "",
+                        "isMine": false,
+                        "date": 1435392000000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329694,
+                        "name": "马超"
+                        },
+                        "createdBy": {
+                        "uid": 329694,
+                        "name": "马超"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 652629,
+                        "name": "任务2",
+                        "priority": "",
+                        "isMine": false,
+                        "date": 1435303800000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329694,
+                        "name": "马超"
+                        },
+                        "createdBy": {
+                        "uid": 329694,
+                        "name": "马超"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 652449,
+                        "name": "0626task",
+                        "priority": 0,
+                        "isMine": false,
+                        "date": 1435298400000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329696,
+                        "name": "姜军"
+                        },
+                        "createdBy": {
+                        "uid": 329696,
+                        "name": "姜军"
+                        },
+                        "from": {
+                        "id": 319511,
+                        "belongId": 3,
+                        "belongName": "销售机会",
+                        "name": "初步接洽2"
+                        }
+                        }, {
+                        "id": 634321,
+                        "name": "renwu123",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1434202200000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {
+                        "id": 1505197,
+                        "belongId": 1,
+                        "belongName": "客户",
+                        "name": "浦发银行"
+                        }
+                        }, {
+                        "id": 634320,
+                        "name": "renwurenwu",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1434112200000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 636687,
+                        "name": "你说过",
+                        "priority": 0,
+                        "isMine": true,
+                        "date": 1434103200000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 632825,
+                        "name": "撒旦法撒法但是",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1433843400000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {
+                        "id": 1517844,
+                        "belongId": 1,
+                        "belongName": "客户",
+                        "name": "中联重科"
+                        }
+                        }, {
+                        "id": 627961,
+                        "name": "jjdhhdh",
+                        "priority": 0,
+                        "isMine": false,
+                        "date": 1433412000000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329696,
+                        "name": "姜军"
+                        },
+                        "createdBy": {
+                        "uid": 329696,
+                        "name": "姜军"
+                        },
+                        "from": {
+                        "id": 1579188,
+                        "belongId": 1,
+                        "belongName": "客户",
+                        "name": "马赵建在相关部门的数据"
+                        }
+                        }, {
+                        "id": 622266,
+                        "name": "打电话给客户",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1432980000000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {
+                        "id": 1164126,
+                        "belongId": 2,
+                        "belongName": "联系人",
+                        "name": "张大"
+                        }
+                        }, {
+                        "id": 622262,
+                        "name": "打电话给客户",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1432893600000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {
+                        "id": 1135267,
+                        "belongId": 2,
+                        "belongName": "联系人",
+                        "name": "陆总"
+                        }
+                        }, {
+                        "id": 621253,
+                        "name": "calllimi",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1432868400000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {
+                        "id": 1572144,
+                        "belongId": 1,
+                        "belongName": "客户",
+                        "name": "李密"
+                        }
+                        }, {
+                        "id": 620942,
+                        "name": "打电话给客户",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1432825200000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {
+                        "id": 1572144,
+                        "belongId": 1,
+                        "belongName": "客户",
+                        "name": "李密"
+                        }
+                        }, {
+                        "id": 618992,
+                        "name": "222",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1432731600000,
+                        "status": 3,
+                        "owner": {
+                        "uid": 329695,
+                        "name": "sryr"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {}
+                        }, {
+                        "id": 616825,
+                        "name": "打电话给客户111111",
+                        "priority": "",
+                        "isMine": true,
+                        "date": 1432556700000,
+                        "status": 1,
+                        "owner": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "createdBy": {
+                        "uid": 329692,
+                        "name": "张彬"
+                        },
+                        "from": {
+                        "id": 1505197,
+                        "belongId": 1,
+                        "belongName": "客户",
+                        "name": "浦发银行"
+                        }
+                        }]
+    }
+}

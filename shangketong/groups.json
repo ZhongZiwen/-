@@ -1,0 +1,60 @@
+{
+    "scode": "0",
+    "head": {
+        "uid": 329692,
+        "tid": 151745,
+        "isex": false
+    },
+    "body": {
+        "groups": [{
+                   "gid": 5852062,
+                   "name": "111",
+                   "pinyin": "111",
+                   "icon": "",
+                   "permission": 0,
+                   "admins": "329692"
+                   }, {
+                   "gid": 5556527,
+                   "name": "bb",
+                   "pinyin": "bb",
+                   "icon": "",
+                   "permission": 0,
+                   "admins": "336214"
+                   }, {
+                   "gid": 5733691,
+                   "name": "Group_Mycreate",
+                   "pinyin": "group_mycreate",
+                   "icon": "https://rs.ingageapp.com/upload/image/151745/2015/07/07/s_36dfd101a3074f66b121a10f817c53ba.jpg",
+                   "permission": 1,
+                   "admins": "329692"
+                   }, {
+                   "gid": 4848872,
+                   "name": "嗨吧",
+                   "pinyin": "haiba",
+                   "icon": "",
+                   "permission": 1,
+                   "admins": "329695,329692"
+                   }, {
+                   "gid": 4446872,
+                   "name": "客户中心讨论组",
+                   "pinyin": "kehuzhongxintaolunzu",
+                   "icon": "",
+                   "permission": 0,
+                   "admins": "329696"
+                   }, {
+                   "gid": 4629086,
+                   "name": "我的群组",
+                   "pinyin": "wodequnzu",
+                   "icon": "",
+                   "permission": 0,
+                   "admins": "329701,329700"
+                   }, {
+                   "gid": 4608508,
+                   "name": "群组",
+                   "pinyin": "qunzu",
+                   "icon": "",
+                   "permission": 0,
+                   "admins": "329692,329693"
+                   }]
+    }
+}
